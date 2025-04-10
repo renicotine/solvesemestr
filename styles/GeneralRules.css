@@ -1,0 +1,124 @@
+@import url("Roots.css");
+
+
+::-webkit-scrollbar {
+  width: 0;
+}
+
+body {
+  font-family: var(--font-main);
+  font-weight: var(--font-weight-main);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-size: var(--font-size-main);
+}
+
+p {
+  margin-top: 10px;
+}
+
+main {
+  /* max-width: 960px; */
+  /* margin: 0 20px 0 20px; */
+  padding: var(--px20);
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+nav {
+  display: flex;
+
+  /* max-width: 960px; */
+  margin: 10px auto 0 auto;
+  /* margin-left: auto;
+    margin-right: auto; */
+  justify-content: center;
+  padding: 15px 10px;
+  border: 2px solid var(--color-primary);
+  border-radius: var(--border-radius-main);
+  /* font-size: var(--font-size-small); */
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--color-secondary);
+  margin: 0 15px;
+  padding: 5px 10px;
+
+  font-size: 22px;
+  line-height: 85%;
+  height: 85%;
+
+  /* для анимки */
+  position: relative;
+
+}
+
+
+/* все дальше для анимки */
+nav a::after {
+  position: absolute;
+  content: '';
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+  display: block;
+  height: 1.2px;
+  background: var(--color-primary);
+  width: 0;
+  transition: 0.3s;
+
+}
+
+/* анимка при наведении */
+nav a:hover::after {
+  width: 90%;
+}
+
+.titles {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+h1 {
+  font-family: var(--font-header);
+  color: var(--color-primary);
+
+  margin: 25px 0 1px 0;
+  padding: 0;
+
+  line-height: 89%;
+  /* height: 80%; */
+
+
+}
+.mainpagetitle{
+  max-width: 100%;
+  width: auto;
+}
+.mainpagetitle h1 {
+  font-size: var(--font-size-large);
+  align-self: flex-start;
+  margin: auto;
+}
+
+.pagestitles {
+  align-items: center;
+}
+
+.pagestitles h1 {
+  font-size: var(--font-size-large-but-smaller);
+  
+}
+
+.titles p{
+  text-align: center;
+  margin: 10px;
+  font-size: var(--font-size-main);
+}
