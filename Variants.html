@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Варианты семестровой работы</title>
+
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Zen+Kaku+Gothic+Antique&display=swap" rel="stylesheet"> -->
+    
+    <link rel="stylesheet" href="styles/GeneralRules.css"> 
+   
+    <link rel="stylesheet" href="styles/Containers.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html" class="nav-link active">Главная</a>
+            <a href="Tasks.html" class="nav-link">Тренажер</a>
+            <a href="Variants.html" class="nav-link">Варианты</a>
+    </nav>
+    <main>
+        
+        <section class="titles pagestitles">
+            <h1>Варианты</h1>
+            <p>Это страница с демовариантами семестровых работ. Ответы записывайте в формате обыкновенной дроби (Например, вместо 0,5 - 1/2)</p>
+        </section>
+
+        <div class="semester-buttons">
+            <button class="generate-button" data-variant="1">Вариант 1</button>
+            <button class="generate-button" data-variant="2">Вариант 2</button>
+            <button class="generate-button" data-variant="3">Вариант 3</button>
+        </div>
+        <div id="semester-variants">
+            <!-- Варианты семестровых работ будут вставлены сюда -->
+        </div>
+        <button id="submit-semester-button" style="display:none">Проверить ответы</button>
+         <p id="total-score" style="display: none"></p>
+        <!-- <button class="back-button" onclick="window.location.href='index.html'">На главную</button> -->
+    </main>
+    <script src="scripts/VariantsScript.js"></script>
+</body>
+</html>
