@@ -9,6 +9,9 @@
     gap: 10px;
 
 }
+.titles p {
+    text-align: left;
+}
 
 .button {
     background-color: #001f3f;
@@ -42,7 +45,7 @@
 }
 
 footer {
-    margin: 20px;
+    margin: 10px 20px;
     text-align: right;
     padding: 20px 0;
     font-size: 0.8em;

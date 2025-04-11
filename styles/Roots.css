@@ -37,11 +37,10 @@
 
 @media (min-width: 990px) {
     :root {
-      --font-size-large: 120px; 
-      
+      --font-size-large: 100px; 
       --font-size-large-but-smaller: 120px; /* Для хедеров */
-      
       --font-size-main: 1.6vw;
+      --font-size-for-btns: 2vw;
       --px20: 2vw;
       --px15: 1.5vw;
       --px80: 8vw;
@@ -59,7 +58,7 @@
     }
   
     .button {
-      width: 100%;
+      width: 90%;
       /* Кнопки занимают большую часть ширины экрана */
       margin-bottom: 10px;
       padding: 100px 20px 15px 20px;
@@ -95,7 +94,7 @@
     }
   
     nav a {
-      margin: 0 10px;
+      /* margin: 0 10px; */
       /* Уменьшаем отступы между ссылками */
     }
   
