@@ -131,34 +131,6 @@ function adjustImageSize(image, parentElement) {
     };
   }
   
-//   function adjustImageSize(image, parentElement) {
-//     image.onload = () => {
-//       const originalWidth = image.width;
-//       const isMobile = window.innerWidth <= 768;
-  
-//       let maxWidth; // Объявляем переменную для maxWidth
-//       let height = 'auto'; // Высота всегда auto, определяем сразу
-  
-//       // Определяем maxWidth в зависимости от условий
-//       if (isMobile && originalWidth >= 1500) {
-//         maxWidth = '90vw';
-//         console.log("Большая картинка на телефоне: maxWidth = 90vw");
-//       } else if (isMobile && originalWidth < 1500) {
-//         maxWidth = '33vw';
-//         console.log("Маленькая картинка на телефоне: maxWidth = 33vw");
-//       } else {
-//         maxWidth = 'auto';
-//         height = 'auto'; // Для десктопа и высота auto
-//         console.log("Десктоп: авторазмеры");
-//       }
-  
-//       // Применяем стили к изображению после всех вычислений
-//       image.style.maxWidth = maxWidth;
-//       image.style.height = height;
-//     };
-//   }
-  
-  
 async function renderThemeContent(contentContainer, themeTasks) {
     const isMobile = window.innerWidth <= 768;
 

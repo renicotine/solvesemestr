@@ -51,27 +51,27 @@ function showDecision(decisionImage, listItem) { // Функция для ото
     listItem.appendChild(image); // Добавляем картинку в элемент списка
 }
 
-async function generateSemesterVariant(variantNumber) { // Асинхронная функция для генерации варианта семестра
+async function generateSemesterVariant(variantNumber) { // Асинхронная функция для генерации варианта 
   const quizData = await loadQuizData(); // Загружаем данные викторины
   currentVariantTasks = []; // Очищаем массив текущих задач варианта
   semesterVariantsContainer.innerHTML = ''; // Очищаем контейнер вариантов семестра
   const groupedTasks = quizData.reduce((acc, task) => { // Группируем задачи по темам и подтемам
-      if (!acc[task.theme]) { // Если темы еще нет в аккумуляторе
-          acc[task.theme] = {}; // Создаем объект для темы
+      if (!acc[task.theme]) { 
+          acc[task.theme] = {}; 
       }
-      if (!acc[task.theme][task.subtheme]) { // Если подтемы еще нет в теме
-          acc[task.theme][task.subtheme] = []; // Создаем массив для подтемы
+      if (!acc[task.theme][task.subtheme]) { 
+          acc[task.theme][task.subtheme] = []; 
       }
       acc[task.theme][task.subtheme].push(task); // Добавляем задачу в подтему
-      return acc; // Возвращаем аккумулятор
+      return acc; 
   }, {});
-  const variantContainer = document.createElement('div') // Создаем контейнер варианта
+  const variantContainer = document.createElement('div') 
   variantContainer.classList.add('tasks-container'); // Добавляем класс 'tasks-container'
   
-  const themeContainer = document.createElement('div') // Создаем контейнер темы
+  const themeContainer = document.createElement('div') 
   themeContainer.classList.add('theme-container'); // Добавляем класс 'theme-container'
   
-  const variantTitle = document.createElement('h2'); // Создаем заголовок варианта
+  const variantTitle = document.createElement('h2'); 
   variantTitle.textContent = `Вариант ${variantNumber}`; // Устанавливаем текст заголовка
   
   themeContainer.appendChild(variantTitle) // Добавляем заголовок в контейнер темы
