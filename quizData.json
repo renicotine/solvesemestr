@@ -147,7 +147,7 @@
       "theme": "Функции и их графики",
       "subtheme": "График функции",
       "number": 1,
-      "correctAnswer": "3x-5",
+      "correctAnswer": "(0;-5);(5/3;0);3x-5",
       "image": "images/Conditions/221.jpg",
       "decision": "images/Solves/221.jpg"
     },
@@ -171,7 +171,7 @@
       "theme": "Функции и их графики",
       "subtheme": "График функции",
       "number": 4,
-      "correctAnswer": "1",
+      "correctAnswer": "См. ответ в решении задачи",
       "image": "images/Conditions/224.jpg",
       "decision": "images/Solves/224.jpg"
     },
@@ -179,7 +179,7 @@
       "theme": "Функции и их графики",
       "subtheme": "График функции",
       "number": 5,
-      "correctAnswer": "1",
+      "correctAnswer": "См. ответ в решении задачи",
       "image": "images/Conditions/225.jpg",
       "decision": "images/Solves/225.jpg"
     },
@@ -187,7 +187,7 @@
       "theme": "Функции и их графики",
       "subtheme": "График функции",
       "number": 6,
-      "correctAnswer": "1",
+      "correctAnswer": "См. ответ в решении задачи",
       "image": "images/Conditions/226.jpg",
       "decision": "images/Solves/226.jpg"
     },
@@ -195,7 +195,7 @@
       "theme": "Функции и их графики",
       "subtheme": "График функции",
       "number": 7,
-      "correctAnswer": "1",
+      "correctAnswer": "m<0",
       "image": "images/Conditions/227.jpg",
       "decision": "images/Solves/227.jpg"
     },
@@ -203,41 +203,9 @@
       "theme": "Функции и их графики",
       "subtheme": "График функции",
       "number": 8,
-      "correctAnswer": "1",
+      "correctAnswer": "См. ответ в решении задачи",
       "image": "images/Conditions/228.jpg",
       "decision": "images/Solves/228.jpg"
-    },
-    {
-      "theme": "Системы линейных уравнений и способы их решений",
-      "subtheme": "Решите систему уравнений",
-      "number": 1,
-      "correctAnswer": "1",
-      "image": "images/Conditions/321.jpg",
-      "decision": "images/Solves/321.jpg"
-    },
-    {
-      "theme": "Системы линейных уравнений и способы их решений",
-      "subtheme": "Решите систему уравнений",
-      "number": 2,
-      "correctAnswer": "3",
-      "image": "images/Conditions/322.jpg",
-      "decision": "images/Solves/322.jpg"
-    },
-    {
-      "theme": "Системы линейных уравнений и способы их решений",
-      "subtheme": "Решите систему уравнений",
-      "number": 3,
-      "correctAnswer": "a!=r;a!=1",
-      "image": "images/Conditions/323.jpg",
-      "decision": "images/Solves/323.jpg"
-    },
-    {
-      "theme": "Системы линейных уравнений и способы их решений",
-      "subtheme": "Решите систему уравнений",
-      "number": 4,
-      "correctAnswer": "a!=+-3/2",
-      "image": "images/Conditions/324.jpg",
-      "decision": "images/Solves/324.jpg"
     },
     {
       "theme": "Системы линейных уравнений и способы их решений",
@@ -305,35 +273,67 @@
     },
     {
       "theme": "Системы линейных уравнений и способы их решений",
-      "subtheme": "Решите систему уравнений с параметром:",
-      "number": 1,
-      "correctAnswer": "1",
+      "subtheme": "Решите систему уравнений",
+      "number": 9,
+      "correctAnswer": "4;-5",
       "image": "images/Conditions/3109.jpg",
       "decision": "images/Solves/3109.jpg"
     },
     {
       "theme": "Системы линейных уравнений и способы их решений",
-      "subtheme": "Решите систему уравнений с параметром:",
-      "number": 2,
+      "subtheme": "Решите систему уравнений",
+      "number": 10,
       "correctAnswer": "1",
       "image": "images/Conditions/3110.jpg",
       "decision": "images/Solves/3110.jpg"
     },
     {
       "theme": "Системы линейных уравнений и способы их решений",
-      "subtheme": "Решите систему уравнений с параметром:",
-      "number": 3,
+      "subtheme": "Решите систему уравнений",
+      "number": 11,
       "correctAnswer": "1",
       "image": "images/Conditions/3111.jpg",
       "decision": "images/Solves/3111.jpg"
     },
     {
       "theme": "Системы линейных уравнений и способы их решений",
-      "subtheme": "Решите систему уравнений с параметром:",
-      "number": 4,
+      "subtheme": "Решите систему уравнений",
+      "number": 12,
       "correctAnswer": "1",
       "image": "images/Conditions/3112.jpg",
       "decision": "images/Solves/3112.jpg"
+    },
+    {
+      "theme": "Системы линейных уравнений и способы их решений",
+      "subtheme": "Решите систему уравнений с параметром",
+      "number": 1,
+      "correctAnswer": "1",
+      "image": "images/Conditions/321.jpg",
+      "decision": "images/Solves/321.jpg"
+    },
+    {
+      "theme": "Системы линейных уравнений и способы их решений",
+      "subtheme": "Решите систему уравнений с параметром",
+      "number": 2,
+      "correctAnswer": "3",
+      "image": "images/Conditions/322.jpg",
+      "decision": "images/Solves/322.jpg"
+    },
+    {
+      "theme": "Системы линейных уравнений и способы их решений",
+      "subtheme": "Решите систему уравнений с параметром",
+      "number": 3,
+      "correctAnswer": "a!=r;a!=1",
+      "image": "images/Conditions/323.jpg",
+      "decision": "images/Solves/323.jpg"
+    },
+    {
+      "theme": "Системы линейных уравнений и способы их решений",
+      "subtheme": "Решите систему уравнений с параметром",
+      "number": 4,
+      "correctAnswer": "a!=+-3/2",
+      "image": "images/Conditions/324.jpg",
+      "decision": "images/Solves/324.jpg"
     },
     {
       "theme": "Уравнения",
