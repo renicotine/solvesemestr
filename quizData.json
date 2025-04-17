@@ -211,7 +211,7 @@
       "theme": "Системы линейных уравнений и способы их решений",
       "subtheme": "Решите систему уравнений",
       "number": 1,
-      "correctAnswer": "1",
+      "correctAnswer": "0;0",
       "image": "images/Conditions/3101.jpg",
       "decision": "images/Solves/3101.jpg"
     },
@@ -483,7 +483,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 4,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "6",
       "image": "images/Conditions/604.jpg",
       "decision": "images/Solves/604.jpg"
     },
