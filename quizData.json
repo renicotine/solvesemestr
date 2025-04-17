@@ -435,7 +435,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 3,
-      "correctAnswer": "nk||ac",
+      "correctAnswer": "паралелльны",
       "image": "images/Conditions/603.jpg",
       "decision": "images/Solves/603.jpg"
     },
@@ -443,7 +443,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 4,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "6см",
       "image": "images/Conditions/604.jpg",
       "decision": "images/Solves/604.jpg"
     },
