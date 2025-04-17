@@ -226,6 +226,14 @@
     {
       "theme": "Системы линейных уравнений и способы их решений",
       "subtheme": "Решите систему уравнений",
+      "number": 3,
+      "correctAnswer": "См. ответ в решении задачи",
+      "image": "images/Conditions/3103.jpg",
+      "decision": "images/Solves/3103.jpg"
+    },
+    {
+      "theme": "Системы линейных уравнений и способы их решений",
+      "subtheme": "Решите систему уравнений",
       "number": 4,
       "correctAnswer": "1;2;3",
       "image": "images/Conditions/3104.jpg",
