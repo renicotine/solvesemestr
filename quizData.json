@@ -227,7 +227,7 @@
       "theme": "Системы линейных уравнений и способы их решений",
       "subtheme": "Решите систему уравнений",
       "number": 3,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "4/10;4/10;-2",
       "image": "images/Conditions/3103.jpg",
       "decision": "images/Solves/3103.jpg"
     },
@@ -243,7 +243,7 @@
       "theme": "Системы линейных уравнений и способы их решений",
       "subtheme": "Решите систему уравнений",
       "number": 5,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "5;11;-2",
       "image": "images/Conditions/3105.jpg",
       "decision": "images/Solves/3105.jpg"
     },
@@ -283,7 +283,7 @@
       "theme": "Системы линейных уравнений и способы их решений",
       "subtheme": "Решите систему уравнений",
       "number": 10,
-      "correctAnswer": "1",
+      "correctAnswer": "(3;5);(3;-3);(-3;5);(-3;-3)",
       "image": "images/Conditions/3110.jpg",
       "decision": "images/Solves/3110.jpg"
     },
@@ -291,7 +291,7 @@
       "theme": "Системы линейных уравнений и способы их решений",
       "subtheme": "Решите систему уравнений",
       "number": 11,
-      "correctAnswer": "1",
+      "correctAnswer": "(-1;1/2;1/3);(0;0;0)",
       "image": "images/Conditions/3111.jpg",
       "decision": "images/Solves/3111.jpg"
     },
@@ -299,7 +299,7 @@
       "theme": "Системы линейных уравнений и способы их решений",
       "subtheme": "Решите систему уравнений",
       "number": 12,
-      "correctAnswer": "1",
+      "correctAnswer": "x=4;y=14;z=-7;t=-2",
       "image": "images/Conditions/3112.jpg",
       "decision": "images/Solves/3112.jpg"
     },
@@ -579,7 +579,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 16,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "25",
       "image": "images/Conditions/616.jpg",
       "decision": "images/Solves/616.jpg"
     },
@@ -587,7 +587,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 17,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "75;40;65",
       "image": "images/Conditions/617.jpg",
       "decision": "images/Solves/617.jpg"
     },
@@ -595,7 +595,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 18,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "70;55",
       "image": "images/Conditions/618.jpg",
       "decision": "images/Solves/618.jpg"
     },
@@ -603,7 +603,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 19,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "40;70",
       "image": "images/Conditions/619.jpg",
       "decision": "images/Solves/619.jpg"
     },
@@ -611,7 +611,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 20,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "30;60",
       "image": "images/Conditions/620.jpg",
       "decision": "images/Solves/620.jpg"
     },
