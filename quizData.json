@@ -456,6 +456,14 @@
       "decision": "images/Solves/505.jpg"
     },
     {
+      "theme": "Задачи",
+      "subtheme": "Решите задачу:",
+      "number": 5,
+      "correctAnswer": "70;50",
+      "image": "images/Conditions/506.jpg",
+      "decision": "images/Solves/506.jpg"
+    },
+    {
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 1,
@@ -619,7 +627,7 @@
       "theme": "Геометрические задачи",
       "subtheme": "Решите задачу:",
       "number": 21,
-      "correctAnswer": "См. ответ в решении задачи",
+      "correctAnswer": "72;36;72",
       "image": "images/Conditions/621.jpg",
       "decision": "images/Solves/621.jpg"
     },
@@ -630,5 +638,21 @@
       "correctAnswer": "См. ответ в решении задачи",
       "image": "images/Conditions/622.jpg",
       "decision": "images/Solves/622.jpg"
+    },
+    {
+      "theme": "Геометрические задачи",
+      "subtheme": "Решите задачу:",
+      "number": 23,
+      "correctAnswer": "69",
+      "image": "images/Conditions/623.jpg",
+      "decision": "images/Solves/623.jpg"
+    },
+    {
+      "theme": "Геометрические задачи",
+      "subtheme": "Решите задачу:",
+      "number": 24,
+      "correctAnswer": "2;6",
+      "image": "images/Conditions/624.jpg",
+      "decision": "images/Solves/624.jpg"
     }
   ]
