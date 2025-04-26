@@ -44,10 +44,21 @@
     font-size: 2em; /* Увеличивает размер стрелки */
 }
 
-footer {
-    margin: 10px 20px;
-    text-align: right;
-    padding: 20px 0;
-    font-size: 0.8em;
-    color: #001f3f;
+
+
+.feedbackForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: #001f3f 1px solid;
+    border-radius: 8px; */
+    padding: 10px;
+}
+iframe{
+    border: #001f3f 1px solid;
+    border-radius: 8px;  
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

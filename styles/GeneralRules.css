@@ -108,11 +108,21 @@ h1 {
 
 .pagestitles h1 {
   font-size: var(--font-size-large-but-smaller);
-  
+  margin: 0;
 }
 
 .titles p{
   text-align: center;
   margin: 10px;
   font-size: var(--font-size-main);
+}
+footer {
+  margin: 10px 20px;
+  text-align: right;
+  padding: 0px 10px 10px 10px;
+  font-size: 0.8em;
+  color: #001f3f;
+}
+footer p{
+  margin: 0;
 }

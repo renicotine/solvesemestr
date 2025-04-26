@@ -38,7 +38,7 @@
 @media (min-width: 990px) {
     :root {
       --font-size-large: 100px; 
-      --font-size-large-but-smaller: 120px; /* Для хедеров */
+      --font-size-large-but-smaller: 100px; /* Для хедеров */
       --font-size-main: 1.6vw;
       --font-size-for-btns: 2vw;
       --px20: 2vw;
