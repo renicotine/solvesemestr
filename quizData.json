@@ -323,7 +323,7 @@
       "theme": "Системы линейных уравнений и способы их решений",
       "subtheme": "Решите систему уравнений с параметром",
       "number": 3,
-      "correctAnswer": "a!=r;a!=1",
+      "correctAnswer": "a!=1",
       "image": "images/Conditions/323.jpg",
       "decision": "images/Solves/323.jpg"
     },
