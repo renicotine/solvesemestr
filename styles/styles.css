@@ -291,7 +291,7 @@ h3,
   width: 200px;
 }
 
-.decision-button {
+.decision-button, #submit-semester-button{
   padding: 8px 15px;
   background-color: var(--color-primary);
   color: white;
@@ -365,6 +365,7 @@ h3,
 
 .generate-button {
   padding: 10px 20px;
+  height: 40px;
   background-color: var(--color-primary);
   color: white;
   border: none;
@@ -429,7 +430,7 @@ footer {
   display: grid;
   grid-template-columns: 1fr minmax(auto, 1280px) 1fr;
   align-items: center;
-  position: sticky;
+  /* position: sticky; */
   bottom: 0;
   z-index: 1000;
 }
