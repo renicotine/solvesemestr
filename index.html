@@ -1,63 +1,111 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Главная страница</title>
-    <link rel="stylesheet" href="styles/GeneralRules.css">
-    <link rel="stylesheet" href="styles/MainPage.css">
+    <link rel="stylesheet" href="styles/styles.css" />
 
-    
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-    m[i].l=1*new Date();
-    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
- 
-    ym(100973590, "init", {
-         clickmap:true,
-         trackLinks:true,
-         accurateTrackBounce:true,
-         webvisor:true
-    });
- </script>
- <noscript><div><img src="https://mc.yandex.ru/watch/100973590" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
- <!-- /Yandex.Metrika counter -->
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+      (function (m, e, t, r, i, k, a) {
+        m[i] =
+          m[i] ||
+          function () {
+            (m[i].a = m[i].a || []).push(arguments);
+          };
+        m[i].l = 1 * new Date();
+        for (var j = 0; j < document.scripts.length; j++) {
+          if (document.scripts[j].src === r) {
+            return;
+          }
+        }
+        (k = e.createElement(t)),
+          (a = e.getElementsByTagName(t)[0]),
+          (k.async = 1),
+          (k.src = r),
+          a.parentNode.insertBefore(k, a);
+      })(
+        window,
+        document,
+        "script",
+        "https://mc.yandex.ru/metrika/tag.js",
+        "ym"
+      );
 
-</head>
-<body>
-        <nav>
-            <a href="index.html" class="nav-link active">Главная</a>
-            <a href="Tasks.html" class="nav-link">Тренажер</a>
-            <a href="Variants.html" class="nav-link">Варианты</a>
-        </nav>
-    
+      ym(100973590, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+      });
+    </script>
+    <noscript
+      ><div>
+        <img
+          src="https://mc.yandex.ru/watch/100973590"
+          style="position: absolute; left: -9999px"
+          alt=""
+        /></div
+    ></noscript>
+    <!-- /Yandex.Metrika counter -->
+  </head>
+  <body>
+    <nav>
+      <a href="index.html" class="nav-link active">РЕШИ СЕМЕСТРОВУЮ</a>
+      <div class="header-nav">
+        <!-- <div class="nav-item">7 КЛАСС</div> -->
+        <!-- <div class="nav-item">8 КЛАСС</div> -->
+        <a href="\feedback.html" class="nav-item">ОБРАТНАЯ СВЯЗЬ</a>
+      </div>
+    </nav>
+
     <main>
-        <section class="titles mainpagetitle">
-            <h1>РЕШИ СЕМЕСТРОВУЮ</h1>
-            <p>Привет! Добро пожаловать на наш сайт для самостоятельной подготовки к семестровым работам по математике Бауманской инженерной школы №1580</p>
+      <div class="content-grid-main">
+        <div class="main-photo-home">
+          <img src="images/meme.png" alt="Подготовка к семестровым" />
+        </div>
+
+        <section class="titles-main">
+          <h1>РЕШИ СЕМЕСТРОВУЮ</h1>
+          <p>
+            Твой надежный помощник в подготовке к семестровым по математике
+            <span>Бауманской инженерной школы №1580!</span>
+          </p>
         </section>
 
-        <section class="buttons">
-            <a href="Tasks.html" class="button">
-                <img src="images/catok.png" alt="Тренажер">
-                Тренажер
-            </a>
-            <a href="Variants.html" class="button">
-                <img src="images/catwithglasses.png" alt="Варианты семестровых">
-                Варианты семестровых
-            </a>
+        <section class="buttons-main">
+          <a href="/pages/7gr/1sem/Tasks.html" class="button-main">
+            7 класс 1 семестр
+          </a>
+          <a href="/pages/7gr/2sem/Tasks.html" class="button-main">
+            7 класс 2 семестр
+          </a>
+          <!-- <a href="/pages/8gr/1sem/Tasks.html" class="button-main">
+            8 класс 1 семестр
+          </a>
+          <a href="/pages/8gr/2sem/Tasks.html" class="button-main">
+            8 класс 2 семестр
+          </a> -->
         </section>
-        </main>        
-        
-        <footer>
-            <p>*Ресурс не является официальным и создан учениками для учеников</p>
-            <p>Будем рады обратной связи! Оставить отзыв можно <a href="feedback.html">здесь.</a></p>
-        </footer>
-</body>
+      </div>
+    </main>
 
-
+    <footer>
+      <div class="footer-content">
+        <div class="footer-text">
+          *Ресурс <strong>не является официальным</strong> и создан учениками
+          для учеников
+        </div>
+        <div class="footer-text">
+          (c) <strong>Никотина</strong> Ирина и
+          <strong>Белошейкин</strong> Кирилл 2024 - 2025
+        </div>
+        <div class="footer-text">
+          Мы рады обратной связи! Оставить отзыв можно
+          <a class="underline" href="feedback.html">здесь</a>
+        </div>
+      </div>
+    </footer>
+  </body>
 </html>
-

@@ -1,0 +1,744 @@
+{
+  "themes": [
+    {
+      "name": "Вычисление значений числовых выражений",
+      "subthemes": [
+        {
+          "name": "Вычисление значений числовых выражений",
+          "tasks": [
+            {
+              "number": 101,
+              "correctAnswer": "8",
+              "image": "/data/7gr/1sem/Conditions/101.jpg",
+              "decision": "/data/7gr/1sem/Solves/101.jpg"
+            },
+            {
+              "number": 102,
+              "correctAnswer": "-1/4",
+              "image": "/data/7gr/1sem/Conditions/102.jpg",
+              "decision": "/data/7gr/1sem/Solves/102.jpg"
+            },
+            {
+              "number": 103,
+              "correctAnswer": "7,2",
+              "image": "/data/7gr/1sem/Conditions/103.jpg",
+              "decision": "/data/7gr/1sem/Solves/103.jpg"
+            },
+            {
+              "number": 104,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/104.jpg",
+              "decision": "/data/7gr/1sem/Solves/104.jpg"
+            },
+            {
+              "number": 105,
+              "correctAnswer": "7 1/4",
+              "image": "/data/7gr/1sem/Conditions/105.jpg",
+              "decision": "/data/7gr/1sem/Solves/105.jpg"
+            },
+            {
+              "number": 106,
+              "correctAnswer": "-41",
+              "image": "/data/7gr/1sem/Conditions/106.jpg",
+              "decision": "/data/7gr/1sem/Solves/106.jpg"
+            },
+            {
+              "number": 107,
+              "correctAnswer": "100",
+              "image": "/data/7gr/1sem/Conditions/107.jpg",
+              "decision": "/data/7gr/1sem/Solves/107.jpg"
+            },
+            {
+              "number": 108,
+              "correctAnswer": "160",
+              "image": "/data/7gr/1sem/Conditions/108.jpg",
+              "decision": "/data/7gr/1sem/Solves/108.jpg"
+            },
+            {
+              "number": 109,
+              "correctAnswer": "6,75",
+              "image": "/data/7gr/1sem/Conditions/109.jpg",
+              "decision": "/data/7gr/1sem/Solves/109.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Действия со степенями с натуральным показателем",
+      "subthemes": [
+        {
+          "name": "Действия со степенями с натуральным показателем",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "1",
+              "image": "/data/7gr/1sem/Conditions/211.jpg",
+              "decision": "/data/7gr/1sem/Solves/211.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "-27",
+              "image": "/data/7gr/1sem/Conditions/212.jpg",
+              "decision": "/data/7gr/1sem/Solves/212.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "0,2",
+              "image": "/data/7gr/1sem/Conditions/213.jpg",
+              "decision": "/data/7gr/1sem/Solves/213.jpg"
+            },
+            {
+              "number": 4,
+              "correctAnswer": "11250",
+              "image": "/data/7gr/1sem/Conditions/214.jpg",
+              "decision": "/data/7gr/1sem/Solves/214.jpg"
+            },
+            {
+              "number": 5,
+              "correctAnswer": "-9",
+              "image": "/data/7gr/1sem/Conditions/215.jpg",
+              "decision": "/data/7gr/1sem/Solves/215.jpg"
+            },
+            {
+              "number": 6,
+              "correctAnswer": "-4",
+              "image": "/data/7gr/1sem/Conditions/216.jpg",
+              "decision": "/data/7gr/1sem/Solves/216.jpg"
+            },
+            {
+              "number": 7,
+              "correctAnswer": "3^13",
+              "image": "/data/7gr/1sem/Conditions/221.jpg",
+              "decision": "/data/7gr/1sem/Solves/221.jpg"
+            },
+            {
+              "number": 8,
+              "correctAnswer": "3^26",
+              "image": "/data/7gr/1sem/Conditions/222.jpg",
+              "decision": "/data/7gr/1sem/Solves/222.jpg"
+            },
+            {
+              "number": 9,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/230.jpg",
+              "decision": "/data/7gr/1sem/Solves/230.jpg"
+            },
+            {
+              "number": 10,
+              "correctAnswer": "-52,не принадлежит",
+              "image": "/data/7gr/1sem/Conditions/240.jpg",
+              "decision": "/data/7gr/1sem/Solves/240.jpg"
+            },
+            {
+              "number": 11,
+              "correctAnswer": "117, принадлежит",
+              "image": "/data/7gr/1sem/Conditions/250.jpg",
+              "decision": "/data/7gr/1sem/Solves/250.jpg"
+            },
+            {
+              "number": 12,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/261.jpg",
+              "decision": "/data/7gr/1sem/Solves/261.jpg"
+            },
+            {
+              "number": 13,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/262.jpg",
+              "decision": "/data/7gr/1sem/Solves/262.jpg"
+            },
+            {
+              "number": 14,
+              "correctAnswer": "2",
+              "image": "/data/7gr/1sem/Conditions/271.jpg",
+              "decision": "/data/7gr/1sem/Solves/271.jpg"
+            },
+            {
+              "number": 15,
+              "correctAnswer": "1",
+              "image": "/data/7gr/1sem/Conditions/271.jpg",
+              "decision": "/data/7gr/1sem/Solves/272.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Решение линейных уравнений и уравнений, сводящихся к линейным",
+      "subthemes": [
+        {
+          "name": "Решение линейных уравнений и уравнений, сводящихся к линейным",
+          "tasks": [
+            {
+              "number": 301,
+              "correctAnswer": "-1",
+              "image": "/data/7gr/1sem/Conditions/301.jpg",
+              "decision": "/data/7gr/1sem/Solves/301.jpg"
+            },
+            {
+              "number": 302,
+              "correctAnswer": "-0,5",
+              "image": "/data/7gr/1sem/Conditions/302.jpg",
+              "decision": "/data/7gr/1sem/Solves/302.jpg"
+            },
+            {
+              "number": 303,
+              "correctAnswer": "-2",
+              "image": "/data/7gr/1sem/Conditions/303.jpg",
+              "decision": "/data/7gr/1sem/Solves/303.jpg"
+            },
+            {
+              "number": 304,
+              "correctAnswer": "1",
+              "image": "/data/7gr/1sem/Conditions/304.jpg",
+              "decision": "/data/7gr/1sem/Solves/304.jpg"
+            },
+            {
+              "number": 305,
+              "correctAnswer": "1/4",
+              "image": "/data/7gr/1sem/Conditions/305.jpg",
+              "decision": "/data/7gr/1sem/Solves/305.jpg"
+            },
+            {
+              "number": 306,
+              "correctAnswer": "7/12",
+              "image": "/data/7gr/1sem/Conditions/306.jpg",
+              "decision": "/data/7gr/1sem/Solves/306.jpg"
+            },
+            {
+              "number": 307,
+              "correctAnswer": "-1,3,0",
+              "image": "/data/7gr/1sem/Conditions/307.jpg",
+              "decision": "/data/7gr/1sem/Solves/307.jpg"
+            },
+            {
+              "number": 308,
+              "correctAnswer": "-2,0,5",
+              "image": "/data/7gr/1sem/Conditions/308.jpg",
+              "decision": "/data/7gr/1sem/Solves/308.jpg"
+            },
+            {
+              "number": 309,
+              "correctAnswer": "3289",
+              "image": "/data/7gr/1sem/Conditions/309.jpg",
+              "decision": "/data/7gr/1sem/Solves/309.jpg"
+            },
+            {
+              "number": 310,
+              "correctAnswer": "-1,-3",
+              "image": "/data/7gr/1sem/Conditions/310.jpg",
+              "decision": "/data/7gr/1sem/Solves/310.jpg"
+            },
+            {
+              "number": 311,
+              "correctAnswer": "-2,4",
+              "image": "/data/7gr/1sem/Conditions/311.jpg",
+              "decision": "/data/7gr/1sem/Solves/311.jpg"
+            },
+            {
+              "number": 312,
+              "correctAnswer": "-8,4",
+              "image": "/data/7gr/1sem/Conditions/312.jpg",
+              "decision": "/data/7gr/1sem/Solves/312.jpg"
+            },
+            {
+              "number": 313,
+              "correctAnswer": "-6,36",
+              "image": "/data/7gr/1sem/Conditions/313.jpg",
+              "decision": "/data/7gr/1sem/Solves/313.jpg"
+            },
+            {
+              "number": 314,
+              "correctAnswer": "-20,36",
+              "image": "/data/7gr/1sem/Conditions/314.jpg",
+              "decision": "/data/7gr/1sem/Solves/314.jpg"
+            },
+            {
+              "number": 315,
+              "correctAnswer": "-2",
+              "image": "/data/7gr/1sem/Conditions/315.jpg",
+              "decision": "/data/7gr/1sem/Solves/315.jpg"
+            },
+            {
+              "number": 316,
+              "correctAnswer": "4",
+              "image": "/data/7gr/1sem/Conditions/316.jpg",
+              "decision": "/data/7gr/1sem/Solves/316.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Выражения и значения выражений",
+      "subthemes": [
+        {
+          "name": "Выражения и значения выражений",
+          "tasks": [
+            {
+              "number": 401,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/401.jpg",
+              "decision": "/data/7gr/1sem/Solves/401.jpg"
+            },
+            {
+              "number": 402,
+              "correctAnswer": "-30ab,121260",
+              "image": "/data/7gr/1sem/Conditions/402.jpg",
+              "decision": "/data/7gr/1sem/Solves/402.jpg"
+            },
+            {
+              "number": 403,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/403.jpg",
+              "decision": "/data/7gr/1sem/Solves/403.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Решение текстовых задач с помощью линейных уравнений и уравнений, сводящимся к линейным",
+      "subthemes": [
+        {
+          "name": "Решение текстовых задач с помощью линейных уравнений и уравнений, сводящимся к линейным",
+          "tasks": [
+            {
+              "number": 501,
+              "correctAnswer": "12; 15; 18",
+              "image": "/data/7gr/1sem/Conditions/501.jpg",
+              "decision": "/data/7gr/1sem/Solves/501.jpg"
+            },
+            {
+              "number": 502,
+              "correctAnswer": "6; 7; 8",
+              "image": "/data/7gr/1sem/Conditions/502.jpg",
+              "decision": "/data/7gr/1sem/Solves/502.jpg"
+            },
+            {
+              "number": 503,
+              "correctAnswer": "4; 5; 6",
+              "image": "/data/7gr/1sem/Conditions/503.jpg",
+              "decision": "/data/7gr/1sem/Solves/503.jpg"
+            },
+            {
+              "number": 504,
+              "correctAnswer": "9; 19; 11",
+              "image": "/data/7gr/1sem/Conditions/504.jpg",
+              "decision": "/data/7gr/1sem/Solves/504.jpg"
+            },
+            {
+              "number": 505,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/505.jpg",
+              "decision": "/data/7gr/1sem/Solves/505.jpg"
+            },
+            {
+              "number": 506,
+              "correctAnswer": "85714",
+              "image": "/data/7gr/1sem/Conditions/506.jpg",
+              "decision": "/data/7gr/1sem/Solves/506.jpg"
+            },
+            {
+              "number": 507,
+              "correctAnswer": "3; 4; 8",
+              "image": "/data/7gr/1sem/Conditions/507.jpg",
+              "decision": "/data/7gr/1sem/Solves/507.jpg"
+            },
+            {
+              "number": 508,
+              "correctAnswer": "4; 11; 12",
+              "image": "/data/7gr/1sem/Conditions/508.jpg",
+              "decision": "/data/7gr/1sem/Solves/508.jpg"
+            },
+            {
+              "number": 509,
+              "correctAnswer": "64см^2",
+              "image": "/data/7gr/1sem/Conditions/509.jpg",
+              "decision": "/data/7gr/1sem/Solves/509.jpg"
+            },
+            {
+              "number": 510,
+              "correctAnswer": "9см^2",
+              "image": "/data/7gr/1sem/Conditions/510.jpg",
+              "decision": "/data/7gr/1sem/Solves/510.jpg"
+            },
+            {
+              "number": 511,
+              "correctAnswer": "10",
+              "image": "/data/7gr/1sem/Conditions/511.jpg",
+              "decision": "/data/7gr/1sem/Solves/511.jpg"
+            },
+            {
+              "number": 512,
+              "correctAnswer": "34",
+              "image": "/data/7gr/1sem/Conditions/512.jpg",
+              "decision": "/data/7gr/1sem/Solves/512.jpg"
+            },
+            {
+              "number": 513,
+              "correctAnswer": "12",
+              "image": "/data/7gr/1sem/Conditions/513.jpg",
+              "decision": "/data/7gr/1sem/Solves/513.jpg"
+            },
+            {
+              "number": 514,
+              "correctAnswer": "40",
+              "image": "/data/7gr/1sem/Conditions/514.jpg",
+              "decision": "/data/7gr/1sem/Solves/514.jpg"
+            },
+            {
+              "number": 515,
+              "correctAnswer": "70",
+              "image": "/data/7gr/1sem/Conditions/515.jpg",
+              "decision": "/data/7gr/1sem/Solves/515.jpg"
+            },
+            {
+              "number": 516,
+              "correctAnswer": "210",
+              "image": "/data/7gr/1sem/Conditions/516.jpg",
+              "decision": "/data/7gr/1sem/Solves/516.jpg"
+            },
+            {
+              "number": 517,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/517.jpg",
+              "decision": "/data/7gr/1sem/Solves/517.jpg"
+            },
+            {
+              "number": 518,
+              "correctAnswer": "14",
+              "image": "/data/7gr/1sem/Conditions/518.jpg",
+              "decision": "/data/7gr/1sem/Solves/518.jpg"
+            },
+            {
+              "number": 519,
+              "correctAnswer": "75; 80",
+              "image": "/data/7gr/1sem/Conditions/519.jpg",
+              "decision": "/data/7gr/1sem/Solves/519.jpg"
+            },
+            {
+              "number": 520,
+              "correctAnswer": "82",
+              "image": "/data/7gr/1sem/Conditions/520.jpg",
+              "decision": "/data/7gr/1sem/Solves/520.jpg"
+            },
+            {
+              "number": 521,
+              "correctAnswer": "80",
+              "image": "/data/7gr/1sem/Conditions/521.jpg",
+              "decision": "/data/7gr/1sem/Solves/521.jpg"
+            },
+            {
+              "number": 522,
+              "correctAnswer": "120",
+              "image": "/data/7gr/1sem/Conditions/522.jpg",
+              "decision": "/data/7gr/1sem/Solves/522.jpg"
+            },
+            {
+              "number": 523,
+              "correctAnswer": "2; 10",
+              "image": "/data/7gr/1sem/Conditions/523.jpg",
+              "decision": "/data/7gr/1sem/Solves/523.jpg"
+            },
+            {
+              "number": 524,
+              "correctAnswer": "70",
+              "image": "/data/7gr/1sem/Conditions/524.jpg",
+              "decision": "/data/7gr/1sem/Solves/524.jpg"
+            },
+            {
+              "number": 525,
+              "correctAnswer": "96",
+              "image": "/data/7gr/1sem/Conditions/525.jpg",
+              "decision": "/data/7gr/1sem/Solves/525.jpg"
+            },
+            {
+              "number": 526,
+              "correctAnswer": "10; 20",
+              "image": "/data/7gr/1sem/Conditions/526.jpg",
+              "decision": "/data/7gr/1sem/Solves/526.jpg"
+            },
+            {
+              "number": 527,
+              "correctAnswer": "11; 18",
+              "image": "/data/7gr/1sem/Conditions/527.jpg",
+              "decision": "/data/7gr/1sem/Solves/527.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Понятие множества, диаграмма Эйлера-Венна",
+      "subthemes": [
+        {
+          "name": "Понятие множества, диаграмма Эйлера-Венна",
+          "tasks": [
+            {
+              "number": 601,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/601.jpg",
+              "decision": "/data/7gr/1sem/Solves/601.jpg"
+            },
+            {
+              "number": 602,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/602.jpg",
+              "decision": "/data/7gr/1sem/Solves/602.jpg"
+            },
+            {
+              "number": 603,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/603.jpg",
+              "decision": "/data/7gr/1sem/Solves/603.jpg"
+            },
+            {
+              "number": 604,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/604.jpg",
+              "decision": "/data/7gr/1sem/Solves/604.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Линейные уравнения с параметром уравнения с параметром сводящиеся к линейным",
+      "subthemes": [
+        {
+          "name": "Линейные уравнения с параметром уравнения с параметром сводящиеся к линейным",
+          "tasks": [
+            {
+              "number": 701,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/701.jpg",
+              "decision": "/data/7gr/1sem/Solves/701.jpg"
+            },
+            {
+              "number": 702,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/702.jpg",
+              "decision": "/data/7gr/1sem/Solves/702.jpg"
+            },
+            {
+              "number": 703,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/703.jpg",
+              "decision": "/data/7gr/1sem/Solves/703.jpg"
+            },
+            {
+              "number": 704,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/704.jpg",
+              "decision": "/data/7gr/1sem/Solves/704.jpg"
+            },
+            {
+              "number": 705,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/705.jpg",
+              "decision": "/data/7gr/1sem/Solves/705.jpg"
+            },
+            {
+              "number": 706,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/706.jpg",
+              "decision": "/data/7gr/1sem/Solves/706.jpg"
+            },
+            {
+              "number": 707,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/707.jpg",
+              "decision": "/data/7gr/1sem/Solves/707.jpg"
+            },
+            {
+              "number": 708,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/708.jpg",
+              "decision": "/data/7gr/1sem/Solves/708.jpg"
+            },
+            {
+              "number": 709,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/709.jpg",
+              "decision": "/data/7gr/1sem/Solves/709.jpg"
+            },
+            {
+              "number": 710,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/710.jpg",
+              "decision": "/data/7gr/1sem/Solves/710.jpg"
+            },
+            {
+              "number": 711,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/711.jpg",
+              "decision": "/data/7gr/1sem/Solves/711.jpg"
+            },
+            {
+              "number": 712,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/712.jpg",
+              "decision": "/data/7gr/1sem/Solves/712.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Геометрия",
+      "subthemes": [
+        {
+          "name": "Геометрия",
+          "tasks": [
+            {
+              "number": 801,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/801.jpg",
+              "decision": "/data/7gr/1sem/Solves/801.jpg"
+            },
+            {
+              "number": 802,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/802.jpg",
+              "decision": "/data/7gr/1sem/Solves/802.jpg"
+            },
+            {
+              "number": 803,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/803.jpg",
+              "decision": "/data/7gr/1sem/Solves/803.jpg"
+            },
+            {
+              "number": 804,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/804.jpg",
+              "decision": "/data/7gr/1sem/Solves/804.jpg"
+            },
+            {
+              "number": 805,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/805.jpg",
+              "decision": "/data/7gr/1sem/Solves/805.jpg"
+            },
+            {
+              "number": 806,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/806.jpg",
+              "decision": "/data/7gr/1sem/Solves/806.jpg"
+            },
+            {
+              "number": 807,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/807.jpg",
+              "decision": "/data/7gr/1sem/Solves/807.jpg"
+            },
+            {
+              "number": 808,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/808.jpg",
+              "decision": "/data/7gr/1sem/Solves/808.jpg"
+            },
+            {
+              "number": 809,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/809.jpg",
+              "decision": "/data/7gr/1sem/Solves/809.jpg"
+            },
+            {
+              "number": 810,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/810.jpg",
+              "decision": "/data/7gr/1sem/Solves/810.jpg"
+            },
+            {
+              "number": 811,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/811.jpg",
+              "decision": "/data/7gr/1sem/Solves/811.jpg"
+            },
+            {
+              "number": 812,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/812.jpg",
+              "decision": "/data/7gr/1sem/Solves/812.jpg"
+            },
+            {
+              "number": 813,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/813.jpg",
+              "decision": "/data/7gr/1sem/Solves/813.jpg"
+            },
+            {
+              "number": 814,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/814.jpg",
+              "decision": "/data/7gr/1sem/Solves/814.jpg"
+            },
+            {
+              "number": 815,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/815.jpg",
+              "decision": "/data/7gr/1sem/Solves/815.jpg"
+            },
+            {
+              "number": 816,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/816.jpg",
+              "decision": "/data/7gr/1sem/Solves/816.jpg"
+            },
+            {
+              "number": 817,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/817.jpg",
+              "decision": "/data/7gr/1sem/Solves/817.jpg"
+            },
+            {
+              "number": 818,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/818.jpg",
+              "decision": "/data/7gr/1sem/Solves/818.jpg"
+            },
+            {
+              "number": 819,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/819.jpg",
+              "decision": "/data/7gr/1sem/Solves/819.jpg"
+            },
+            {
+              "number": 820,
+              "correctAnswer": "ПОЗЖЕ",
+              "image": "/data/7gr/1sem/Conditions/820.jpg",
+              "decision": "/data/7gr/1sem/Solves/820.jpg"
+            },
+            {
+              "number": 821,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/821.jpg",
+              "decision": "/data/7gr/1sem/Solves/821.jpg"
+            },
+            {
+              "number": 822,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/822.jpg",
+              "decision": "/data/7gr/1sem/Solves/822.jpg"
+            },
+            {
+              "number": 823,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/823.jpg",
+              "decision": "/data/7gr/1sem/Solves/823.jpg"
+            },
+            {
+              "number": 824,
+              "correctAnswer": "См. решение",
+              "image": "/data/7gr/1sem/Conditions/824.jpg",
+              "decision": "/data/7gr/1sem/Solves/824.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
