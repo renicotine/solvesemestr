@@ -9,7 +9,7 @@
             {
               "number": 1,
               "correctAnswer": "23",
-              "image": "/data/7gr/2sem/Conditions/111.jpg",
+              "image": "../data/7gr/2sem/Conditions/111.jpg",
               "decision": "/data/7gr/2sem/Solves/111.jpg"
             },
             {
