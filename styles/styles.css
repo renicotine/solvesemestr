@@ -192,8 +192,8 @@ main > * {
 
 .button-main {
   width: 100%;
-  height: 50px;
-  padding: var(--space-xs) var(--space-xl);
+  height: 70px;
+  padding: var(--space-xs) var(--space-xl) var(--space-xs) var(--space-xs);
   border: var(--border-width-thick) solid var(--color-primary);
   border-radius: var(--border-radius-md);
   background: var(--color-white);
@@ -202,13 +202,17 @@ main > * {
   font-family: var(--font-header);
   font-weight: var(--font-weight-semibold);
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: auto 1fr auto;
   align-items: center;
   transition: all 0.3s ease;
   position: relative;
   text-decoration: none;
 }
-
+.button-imgs{
+  width: 50px;
+  height: 50px;
+  margin-right: var(--space-xs);
+}
 .button-main:hover {
   background-color: rgba(22, 39, 69, 0.05);
   transform: translateY(-2px);
@@ -218,15 +222,9 @@ main > * {
   content: "";
   width: 16.5px;
   height: 21px;
-  background: var(--color-primary);
-  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16.5 21'%3E%3Cpath d='M0 0L16.5 10.5L0 21V0Z' fill='%23162745'/%3E%3C/svg%3E");
-  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16.5 21'%3E%3Cpath d='M0 0L16.5 10.5L0 21V0Z' fill='%23162745'/%3E%3C/svg%3E");
-  mask-size: contain;
-  -webkit-mask-size: contain;
-  mask-repeat: no-repeat;
-  -webkit-mask-repeat: no-repeat;
-  mask-position: center;
-  -webkit-mask-position: center;
+   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16.5 21'%3E%3Cpath d='M0 0L16.5 10.5L0 21V0Z' fill='%23162745'/%3E%3C/svg%3E");
+
+
 }
 
 /* ===== СТИЛИ СТРАНИЦ TASKS И VARIANTS ===== */
@@ -607,8 +605,14 @@ footer {
   .button-main {
     height: 45px;
     font-size: var(--font-size-md);
-    padding: var(--space-xs) var(--space-md);
+    /* padding: var(--space-xs) var(--space-md); */
   }
+
+  .button-imgs{
+  width: 30px;
+  height: 30px;
+  margin-right: var(--space-xs);
+}
   
   footer {
     height: auto;
