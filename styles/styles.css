@@ -657,3 +657,18 @@ button {
   font-size: 16px !important;
   transform: translateZ(0);
 }
+.feedbackForm {
+  width: 100%;
+  max-width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.feedbackPage {
+  max-width: 100vw;
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
