@@ -77,6 +77,7 @@ nav {
   background: var(--color-primary);
   display: grid;
   grid-template-columns: auto 1fr auto;
+
   align-items: center;
   padding: 0 var(--space-xxxxl);
   position: sticky;
@@ -96,14 +97,35 @@ nav {
 .nav-link:hover {
   opacity: 0.8;
 }
+/* Навигация в хедере */
+.header-nav {
+  grid-column: 3;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: var(--space-xxl);
+  justify-content: end;
+}
 
+.nav-item {
+  color: var(--color-white);
+  font-size: var(--font-size-md);
+  font-family: var(--font-header);
+  font-weight: var(--font-weight-black);
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.nav-item:hover {
+  opacity: 0.8;
+}
 /* ===== MAIN CONTENT GRID ===== */
 main {
   grid-area: main;
   display: grid;
   grid-template-columns: 1fr minmax(auto, 1289px) 1fr;
   grid-template-rows: auto;
-  padding: var(--space-xxxxl) 0;
+  padding: var(--space-md) 0;
+  /* gap: var(--space-xs); */
 }
 
 main > * {
@@ -208,12 +230,12 @@ main > * {
 }
 
 /* ===== СТИЛИ СТРАНИЦ TASKS И VARIANTS ===== */
-.titles-pages {
+.titles.pagestitles {
   text-align: center;
   margin-bottom: var(--space-xxl);
 }
 
-.titles-pages h1 {
+.titles.pagestitles h1 {
   color: var(--color-primary);
   font-size: var(--font-size-xxl);
   font-family: var(--font-header);
@@ -221,7 +243,7 @@ main > * {
   margin-bottom: var(--space-lg);
 }
 
-.titles-pages p {
+.titles.pagestitles p {
   color: var(--color-text);
   font-size: var(--font-size-lg);
   font-family: var(--font-main);
@@ -229,31 +251,38 @@ main > * {
 }
 
 /* ===== КОНТЕЙНЕРЫ ===== */
-.task-image { 
-  max-width: 100%;
-  width: auto;
-  display: block;
+
+
+img, .imgContainer, .task-image {
+ max-width: 98%!important;
+ width: 98%;
 }
 
-.img-container {
-  overflow: hidden;
+.theme-title{
+  font-size: var(--font-size-xl);
+}
+.content{
+  font-size: var(--font-size-lg);
 }
 
-.theme-title,
-h3,
 .task-number {
   font-size: var(--font-size-main);
   font-family: var(--font-main);
 }
+/* h3{
 
-.theme-container {
+} */
+.theme-container, .content{
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap:var(--space-md);
+}
+.theme-container {
   width: 100%;
   margin-bottom: 20px;
   border: 1px solid var(--color-secondary);
-  padding: 10px;
+  padding: var(--space-md);
   border-radius: 8px;
   text-align: center;
 }
@@ -278,7 +307,7 @@ h3,
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
+  gap: var(--space-md);
   width: 100%;
 }
 
@@ -310,11 +339,11 @@ h3,
   max-width: 100%;
   height: auto;
   display: block;
-  margin-top: 10px;
+  margin-top: var(--space-md);
 }
 
 .result-message {
-  margin-top: 10px;
+  margin-top: var(--space-md);
   font-weight: bold;
 }
 
@@ -333,6 +362,7 @@ h3,
   align-items: center;
   width: 100%;
 }
+
 
 .content-pages {
   display: flex;
@@ -364,7 +394,7 @@ h3,
 }
 
 .generate-button {
-  padding: 10px 20px;
+  padding:var(--space-md) 20px;
   height: 40px;
   background-color: var(--color-primary);
   color: white;
@@ -390,13 +420,13 @@ h3,
   align-items: center;
   width: 100%;
   border: 1px solid var(--color-secondary);
-  padding: 10px;
+  padding: var(--space-md);
   border-radius: 8px;
   margin-bottom: 20px;
 }
 
 .submit-semester-button {
-  padding: 10px 20px;
+  padding: var(--space-md) 20px;
   background-color: var(--color-primary);
   color: white;
   border: none;
@@ -413,7 +443,7 @@ h3,
 .total-score {
   display: none;
   font-weight: bold;
-  margin: 10px 0;
+  margin: var(--space-md) 0;
 }
 
 .subtheme-number {
@@ -465,27 +495,7 @@ footer {
   opacity: 0.8;
 }
 
-/* Навигация в хедере */
-.header-nav {
-  grid-column: 3;
-  display: grid;
-  grid-template-columns: repeat(3, auto);
-  gap: var(--space-xxl);
-  justify-content: end;
-}
 
-.nav-item {
-  color: var(--color-white);
-  font-size: var(--font-size-md);
-  font-family: var(--font-header);
-  font-weight: var(--font-weight-black);
-  cursor: pointer;
-  transition: opacity 0.3s ease;
-}
-
-.nav-item:hover {
-  opacity: 0.8;
-}
 
 /* ===== АДАПТИВНОСТЬ ===== */
 @media (max-width: 1280px) {
@@ -557,21 +567,36 @@ footer {
     --font-size-xxxl: 24px;
     --font-size-md: 12px;
   }
-  
+
   body {
     grid-template-rows: 60px 1fr auto;
   }
   
   nav {
     height: 60px;
-    grid-template-columns: 1fr;
+    grid-template-columns: auto 1fr;
     justify-items: center;
+    justify-items: end;
   }
-  
-  .header-nav {
+  .nav-item:last-child{
     display: none;
   }
-  
+  .header-nav {
+    display: grid;
+     grid-template-columns: 1fr 1fr;
+  }  
+.nav-link.active{
+  display: inline-flex;
+  font-size: 0;
+}
+.nav-link.active::after{
+    content: "";
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none'%3E%3Cg clip-path='url(%23clip0_15_3)'%3E%3Crect width='24' height='24' /%3E%3Cpath d='M9 21H4C3.44772 21 3 20.5523 3 20V12.4142C3 12.149 3.10536 11.8946 3.29289 11.7071L11.2929 3.70711C11.6834 3.31658 12.3166 3.31658 12.7071 3.70711L20.7071 11.7071C20.8946 11.8946 21 12.149 21 12.4142V20C21 20.5523 20.5523 21 20 21H15M9 21H15M9 21V15C9 14.4477 9.44772 14 10 14H14C14.5523 14 15 14.4477 15 15V21' stroke='white' stroke-linejoin='round'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_15_3'%3E%3Crect width='24' height='24' fill='white'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E");
+    transition: all 0.3s ease;
+    width: 24px;
+    height: 24px;
+    opacity: 1;
+}
   .button-main {
     height: 45px;
     font-size: var(--font-size-md);

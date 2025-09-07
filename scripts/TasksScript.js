@@ -78,7 +78,7 @@ async function renderThemeContent(contentContainer, themeData) {
             if (isMobile && ["Найдите значение числового выражения", "Разложить на множители", 
                            "Решите систему уравнений с параметром", "Решите уравнение"]
                            .some(s => subtheme.name.includes(s))) {
-                image.style.cssText = 'width: 150%; max-width: none;';
+                image.style.cssText = 'width: 150%';
             }
 
             adjustImageSize(image, imgContainer);
