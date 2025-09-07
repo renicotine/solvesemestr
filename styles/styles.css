@@ -575,6 +575,12 @@ footer {
   body {
     grid-template-rows: 60px 1fr auto;
   }
+  main {
+
+  padding: var(--space-xxl) 0;
+
+}
+
   
   nav {
     height: 60px;
