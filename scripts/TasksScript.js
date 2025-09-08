@@ -1,4 +1,4 @@
-import { checkAnswer, showDecision, loadQuizData, adjustImageSize, createBaseElements } from './common.js';
+import { checkAnswer, showDecision, loadQuizData,  createBaseElements } from './common.js';
 
 const { tasksContainer } = createBaseElements();
 
@@ -46,7 +46,6 @@ async function renderThemes() {
 }
 
 async function renderThemeContent(contentContainer, themeData) {
-    const isMobile = window.innerWidth <= 768;
 
     themeData.subthemes.forEach(subtheme => {
         const subthemeList = document.createElement('ul');
@@ -75,13 +74,7 @@ async function renderThemeContent(contentContainer, themeData) {
             image.alt = 'задание';
             image.classList.add('task-image');
             
-            if (isMobile && ["Найдите значение числового выражения", "Разложить на множители", 
-                           "Решите систему уравнений с параметром", "Решите уравнение"]
-                           .some(s => subtheme.name.includes(s))) {
-                image.style.cssText = 'width: 150%';
-            }
 
-            adjustImageSize(image, imgContainer);
             imgContainer.appendChild(image);
 
             const input = document.createElement('input');

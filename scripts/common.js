@@ -1,9 +1,6 @@
 
 /*
  * Проверяет ответ пользователя и отображает результат
- * @param {HTMLInputElement} inputElement - элемент ввода ответа
- * @param {string} correctAnswer - правильный ответ
- * @param {HTMLElement} listItem - элемент задачи в списке
  */
 export function checkAnswer(inputElement, correctAnswer, listItem) {
     const userAnswer = inputElement.value.trim().toLowerCase();
@@ -37,8 +34,6 @@ export function checkAnswer(inputElement, correctAnswer, listItem) {
 
 /*
  * Показывает/скрывает решение задачи
- * @param {string} decisionImage - путь к изображению с решением
- * @param {HTMLElement} listItem - элемент задачи в списке
  */
 export function showDecision(decisionImage, listItem) {
     let existingImage = listItem.querySelector('.solution-image');
@@ -56,7 +51,6 @@ export function showDecision(decisionImage, listItem) {
 
 /*
  * Загружает данные задач из JSON файла
- * @returns {Promise<Object>} - промис с данными задач
  */
 export async function loadQuizData() {
     const container = document.getElementById("quiz-container") || document.getElementById("data-container");
@@ -72,35 +66,9 @@ export async function loadQuizData() {
     }
 }
 
-/*
- * Настраивает размер изображения в зависимости от устройства
- * @param {HTMLImageElement} image - элемент изображения
- * @param {HTMLElement} parentElement - родительский элемент
- */
-export function adjustImageSize(image, parentElement) {
-    image.onload = () => {
-        const originalWidth = image.width;
-        const isMobile = window.innerWidth <= 768;
-
-        if (isMobile && originalWidth >= 1500) {
-            image.style.maxWidth = '90vw';
-            image.style.height = 'auto';
-        } 
-        else if (isMobile && originalWidth < 1500) {
-            image.style.maxWidth = '33vw';
-            image.style.height = 'auto';
-        } 
-        else {
-            image.style.maxWidth = 'auto';
-            image.style.maxHeight = 'auto';
-        }
-    };
-}
 
 /*
  * Создает базовые DOM-элементы для отображения задач
- * @returns {Object} - объект с созданными элементами
- 
   */
 export function createBaseElements() {
     const mainContainer = document.querySelector('main');
@@ -113,9 +81,6 @@ export function createBaseElements() {
 
 /*
  * Подсчитывает и отображает результаты теста
- * @param {Array} tasks - массив задач
- * @param {HTMLElement} container - контейнер с задачами
- * @param {HTMLElement} scoreDisplay - элемент для отображения результата
  */
 export function calculateScore(tasks, container, scoreDisplay) {
     let correctAnswersCount = 0;
