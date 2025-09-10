@@ -587,7 +587,7 @@ footer {
     justify-items: center;
     justify-items: end;
   }
-  .nav-item:nth-child(3n) {
+  .nav-item:nth-child(2n) {
     display: none;
   }
   .header-nav {
