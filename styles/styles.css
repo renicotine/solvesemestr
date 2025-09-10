@@ -525,6 +525,10 @@ footer {
   .titles-main {
     text-align: center;
   }
+  .dropdown-content {
+    left: 0;
+    min-width: 200px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -642,6 +646,10 @@ footer {
     width: 100%;
     max-width: 200px;
   }
+  .dropdown-content {
+    left: -18px;
+    min-width: 0px !important;
+  }
 }
 
 /* Сброс увеличения на Айфонах */
@@ -688,9 +696,7 @@ button {
   display: none;
   position: absolute;
   top: 100%;
-  left: 0;
   background-color: white;
-  min-width: 200px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1000;
   border-radius: 4px;
