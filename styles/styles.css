@@ -581,15 +581,20 @@ footer {
     --font-size-xxxl: 24px;
     --font-size-md: 12px;
   }
-
+  .content-grid-main {
+    grid-template-areas:
+      "title"
+      "buttons";
+  }
   body {
     grid-template-rows: 60px 1fr auto;
   }
   main {
     padding: var(--space-xxl) 0;
   }
-  .content-grid-main {
-    gap: 0;
+
+  .main-photo-home {
+    display: none;
   }
 
   nav {
