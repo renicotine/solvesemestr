@@ -1,0 +1,70 @@
+{
+  "themes": [
+    {
+      "name": "Арифметические операции",
+      "subthemes": [
+        {
+          "name": "Сложение и вычитание",
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            },
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Умножение и деление",
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            },
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            },
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            },
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            },
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Дроби",
+      "subthemes": [
+        {
+          "name": "Обыкновенные дроби",
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Десятичные дроби",
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

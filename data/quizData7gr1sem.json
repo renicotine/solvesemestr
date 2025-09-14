@@ -9,55 +9,55 @@
             {
               "number": 1,
               "correctAnswer": "8",
-              "image": "../../../data/7gr/1sem/Conditions/101.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/101.jpg",
               "decision": "../../../data/7gr/1sem/Solves/101.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "-1/4",
-              "image": "../../../data/7gr/1sem/Conditions/102.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/102.jpg",
               "decision": "../../../data/7gr/1sem/Solves/102.jpg"
             },
             {
               "number": 3,
               "correctAnswer": "7,2",
-              "image": "../../../data/7gr/1sem/Conditions/103.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/103.jpg",
               "decision": "../../../data/7gr/1sem/Solves/103.jpg"
             },
             {
               "number": 4,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/104.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/104.jpg",
               "decision": "../../../data/7gr/1sem/Solves/104.jpg"
             },
             {
               "number": 5,
               "correctAnswer": "7 1/4",
-              "image": "../../../data/7gr/1sem/Conditions/105.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/105.jpg",
               "decision": "../../../data/7gr/1sem/Solves/105.jpg"
             },
             {
               "number": 6,
               "correctAnswer": "-41",
-              "image": "../../../data/7gr/1sem/Conditions/106.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/106.jpg",
               "decision": "../../../data/7gr/1sem/Solves/106.jpg"
             },
             {
               "number": 7,
               "correctAnswer": "100",
-              "image": "../../../data/7gr/1sem/Conditions/107.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/107.jpg",
               "decision": "../../../data/7gr/1sem/Solves/107.jpg"
             },
             {
               "number": 8,
               "correctAnswer": "160",
-              "image": "../../../data/7gr/1sem/Conditions/108.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/108.jpg",
               "decision": "../../../data/7gr/1sem/Solves/108.jpg"
             },
             {
               "number": 9,
               "correctAnswer": "6,75",
-              "image": "../../../data/7gr/1sem/Conditions/109.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/109.jpg",
               "decision": "../../../data/7gr/1sem/Solves/109.jpg"
             }
           ]
@@ -73,91 +73,91 @@
             {
               "number": 1,
               "correctAnswer": "1",
-              "image": "../../../data/7gr/1sem/Conditions/211.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/211.jpg",
               "decision": "../../../data/7gr/1sem/Solves/211.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "-27",
-              "image": "../../../data/7gr/1sem/Conditions/212.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/212.jpg",
               "decision": "../../../data/7gr/1sem/Solves/212.jpg"
             },
             {
               "number": 3,
               "correctAnswer": "0,2",
-              "image": "../../../data/7gr/1sem/Conditions/213.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/213.jpg",
               "decision": "../../../data/7gr/1sem/Solves/213.jpg"
             },
             {
               "number": 4,
               "correctAnswer": "11250",
-              "image": "../../../data/7gr/1sem/Conditions/214.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/214.jpg",
               "decision": "../../../data/7gr/1sem/Solves/214.jpg"
             },
             {
               "number": 5,
               "correctAnswer": "-9",
-              "image": "../../../data/7gr/1sem/Conditions/215.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/215.jpg",
               "decision": "../../../data/7gr/1sem/Solves/215.jpg"
             },
             {
               "number": 6,
               "correctAnswer": "-4",
-              "image": "../../../data/7gr/1sem/Conditions/216.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/216.jpg",
               "decision": "../../../data/7gr/1sem/Solves/216.jpg"
             },
             {
               "number": 7,
               "correctAnswer": "3^13",
-              "image": "../../../data/7gr/1sem/Conditions/221.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/221.jpg",
               "decision": "../../../data/7gr/1sem/Solves/221.jpg"
             },
             {
               "number": 8,
               "correctAnswer": "3^26",
-              "image": "../../../data/7gr/1sem/Conditions/222.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/222.jpg",
               "decision": "../../../data/7gr/1sem/Solves/222.jpg"
             },
             {
               "number": 9,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/230.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/230.jpg",
               "decision": "../../../data/7gr/1sem/Solves/230.jpg"
             },
             {
               "number": 10,
               "correctAnswer": "-52,не принадлежит",
-              "image": "../../../data/7gr/1sem/Conditions/240.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/240.jpg",
               "decision": "../../../data/7gr/1sem/Solves/240.jpg"
             },
             {
               "number": 11,
               "correctAnswer": "117, принадлежит",
-              "image": "../../../data/7gr/1sem/Conditions/250.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/250.jpg",
               "decision": "../../../data/7gr/1sem/Solves/250.jpg"
             },
             {
               "number": 12,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/261.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/261.jpg",
               "decision": "../../../data/7gr/1sem/Solves/261.jpg"
             },
             {
               "number": 13,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/262.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/262.jpg",
               "decision": "../../../data/7gr/1sem/Solves/262.jpg"
             },
             {
               "number": 14,
               "correctAnswer": "2",
-              "image": "../../../data/7gr/1sem/Conditions/271.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/271.jpg",
               "decision": "../../../data/7gr/1sem/Solves/271.jpg"
             },
             {
               "number": 15,
               "correctAnswer": "1",
-              "image": "../../../data/7gr/1sem/Conditions/271.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/271.jpg",
               "decision": "../../../data/7gr/1sem/Solves/272.jpg"
             }
           ]
@@ -173,97 +173,97 @@
             {
               "number": 1,
               "correctAnswer": "-1",
-              "image": "../../../data/7gr/1sem/Conditions/301.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/301.jpg",
               "decision": "../../../data/7gr/1sem/Solves/301.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "-0,5",
-              "image": "../../../data/7gr/1sem/Conditions/302.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/302.jpg",
               "decision": "../../../data/7gr/1sem/Solves/302.jpg"
             },
             {
               "number": 3,
               "correctAnswer": "-2",
-              "image": "../../../data/7gr/1sem/Conditions/303.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/303.jpg",
               "decision": "../../../data/7gr/1sem/Solves/303.jpg"
             },
             {
               "number": 4,
               "correctAnswer": "1",
-              "image": "../../../data/7gr/1sem/Conditions/304.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/304.jpg",
               "decision": "../../../data/7gr/1sem/Solves/304.jpg"
             },
             {
               "number": 5,
               "correctAnswer": "1/4",
-              "image": "../../../data/7gr/1sem/Conditions/305.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/305.jpg",
               "decision": "../../../data/7gr/1sem/Solves/305.jpg"
             },
             {
               "number": 6,
               "correctAnswer": "7/12",
-              "image": "../../../data/7gr/1sem/Conditions/306.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/306.jpg",
               "decision": "../../../data/7gr/1sem/Solves/306.jpg"
             },
             {
               "number": 7,
               "correctAnswer": "-1,3,0",
-              "image": "../../../data/7gr/1sem/Conditions/307.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/307.jpg",
               "decision": "../../../data/7gr/1sem/Solves/307.jpg"
             },
             {
               "number": 8,
               "correctAnswer": "-2,0,5",
-              "image": "../../../data/7gr/1sem/Conditions/308.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/308.jpg",
               "decision": "../../../data/7gr/1sem/Solves/308.jpg"
             },
             {
               "number": 9,
               "correctAnswer": "3289",
-              "image": "../../../data/7gr/1sem/Conditions/309.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/309.jpg",
               "decision": "../../../data/7gr/1sem/Solves/309.jpg"
             },
             {
               "number": 10,
               "correctAnswer": "-1,-3",
-              "image": "../../../data/7gr/1sem/Conditions/310.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/310.jpg",
               "decision": "../../../data/7gr/1sem/Solves/310.jpg"
             },
             {
               "number": 11,
               "correctAnswer": "-2,4",
-              "image": "../../../data/7gr/1sem/Conditions/311.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/311.jpg",
               "decision": "../../../data/7gr/1sem/Solves/311.jpg"
             },
             {
               "number": 12,
               "correctAnswer": "-8,4",
-              "image": "../../../data/7gr/1sem/Conditions/312.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/312.jpg",
               "decision": "../../../data/7gr/1sem/Solves/312.jpg"
             },
             {
               "number": 13,
               "correctAnswer": "-6,36",
-              "image": "../../../data/7gr/1sem/Conditions/313.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/313.jpg",
               "decision": "../../../data/7gr/1sem/Solves/313.jpg"
             },
             {
               "number": 14,
               "correctAnswer": "-20,36",
-              "image": "../../../data/7gr/1sem/Conditions/314.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/314.jpg",
               "decision": "../../../data/7gr/1sem/Solves/314.jpg"
             },
             {
               "number": 15,
               "correctAnswer": "-2",
-              "image": "../../../data/7gr/1sem/Conditions/315.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/315.jpg",
               "decision": "../../../data/7gr/1sem/Solves/315.jpg"
             },
             {
               "number": 16,
               "correctAnswer": "4",
-              "image": "../../../data/7gr/1sem/Conditions/316.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/316.jpg",
               "decision": "../../../data/7gr/1sem/Solves/316.jpg"
             }
           ]
@@ -279,19 +279,19 @@
             {
               "number": 1,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/401.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/401.jpg",
               "decision": "../../../data/7gr/1sem/Solves/401.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "-30ab,121260",
-              "image": "../../../data/7gr/1sem/Conditions/402.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/402.jpg",
               "decision": "../../../data/7gr/1sem/Solves/402.jpg"
             },
             {
               "number": 3,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/403.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/403.jpg",
               "decision": "../../../data/7gr/1sem/Solves/403.jpg"
             }
           ]
@@ -307,163 +307,163 @@
             {
               "number": 1,
               "correctAnswer": "12; 15; 18",
-              "image": "../../../data/7gr/1sem/Conditions/501.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/501.jpg",
               "decision": "../../../data/7gr/1sem/Solves/501.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "6; 7; 8",
-              "image": "../../../data/7gr/1sem/Conditions/502.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/502.jpg",
               "decision": "../../../data/7gr/1sem/Solves/502.jpg"
             },
             {
               "number": 3,
               "correctAnswer": "4; 5; 6",
-              "image": "../../../data/7gr/1sem/Conditions/503.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/503.jpg",
               "decision": "../../../data/7gr/1sem/Solves/503.jpg"
             },
             {
               "number": 4,
               "correctAnswer": "9; 19; 11",
-              "image": "../../../data/7gr/1sem/Conditions/504.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/504.jpg",
               "decision": "../../../data/7gr/1sem/Solves/504.jpg"
             },
             {
               "number": 5,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/505.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/505.jpg",
               "decision": "../../../data/7gr/1sem/Solves/505.jpg"
             },
             {
               "number": 6,
               "correctAnswer": "85714",
-              "image": "../../../data/7gr/1sem/Conditions/506.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/506.jpg",
               "decision": "../../../data/7gr/1sem/Solves/506.jpg"
             },
             {
               "number": 7,
               "correctAnswer": "3; 4; 8",
-              "image": "../../../data/7gr/1sem/Conditions/507.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/507.jpg",
               "decision": "../../../data/7gr/1sem/Solves/507.jpg"
             },
             {
               "number": 8,
               "correctAnswer": "4; 11; 12",
-              "image": "../../../data/7gr/1sem/Conditions/508.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/508.jpg",
               "decision": "../../../data/7gr/1sem/Solves/508.jpg"
             },
             {
               "number": 9,
               "correctAnswer": "64см^2",
-              "image": "../../../data/7gr/1sem/Conditions/509.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/509.jpg",
               "decision": "../../../data/7gr/1sem/Solves/509.jpg"
             },
             {
               "number": 10,
               "correctAnswer": "9см^2",
-              "image": "../../../data/7gr/1sem/Conditions/510.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/510.jpg",
               "decision": "../../../data/7gr/1sem/Solves/510.jpg"
             },
             {
               "number": 11,
               "correctAnswer": "10",
-              "image": "../../../data/7gr/1sem/Conditions/511.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/511.jpg",
               "decision": "../../../data/7gr/1sem/Solves/511.jpg"
             },
             {
               "number": 12,
               "correctAnswer": "34",
-              "image": "../../../data/7gr/1sem/Conditions/512.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/512.jpg",
               "decision": "../../../data/7gr/1sem/Solves/512.jpg"
             },
             {
               "number": 13,
               "correctAnswer": "12",
-              "image": "../../../data/7gr/1sem/Conditions/513.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/513.jpg",
               "decision": "../../../data/7gr/1sem/Solves/513.jpg"
             },
             {
               "number": 14,
               "correctAnswer": "40",
-              "image": "../../../data/7gr/1sem/Conditions/514.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/514.jpg",
               "decision": "../../../data/7gr/1sem/Solves/514.jpg"
             },
             {
               "number": 15,
               "correctAnswer": "70",
-              "image": "../../../data/7gr/1sem/Conditions/515.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/515.jpg",
               "decision": "../../../data/7gr/1sem/Solves/515.jpg"
             },
             {
               "number": 16,
               "correctAnswer": "210",
-              "image": "../../../data/7gr/1sem/Conditions/516.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/516.jpg",
               "decision": "../../../data/7gr/1sem/Solves/516.jpg"
             },
             {
               "number": 17,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/517.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/517.jpg",
               "decision": "../../../data/7gr/1sem/Solves/517.jpg"
             },
             {
               "number": 18,
               "correctAnswer": "14",
-              "image": "../../../data/7gr/1sem/Conditions/518.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/518.jpg",
               "decision": "../../../data/7gr/1sem/Solves/518.jpg"
             },
             {
               "number": 19,
               "correctAnswer": "75; 80",
-              "image": "../../../data/7gr/1sem/Conditions/519.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/519.jpg",
               "decision": "../../../data/7gr/1sem/Solves/519.jpg"
             },
             {
               "number": 20,
               "correctAnswer": "82",
-              "image": "../../../data/7gr/1sem/Conditions/520.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/520.jpg",
               "decision": "../../../data/7gr/1sem/Solves/520.jpg"
             },
             {
               "number": 21,
               "correctAnswer": "80",
-              "image": "../../../data/7gr/1sem/Conditions/521.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/521.jpg",
               "decision": "../../../data/7gr/1sem/Solves/521.jpg"
             },
             {
               "number": 22,
               "correctAnswer": "120",
-              "image": "../../../data/7gr/1sem/Conditions/522.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/522.jpg",
               "decision": "../../../data/7gr/1sem/Solves/522.jpg"
             },
             {
               "number": 23,
               "correctAnswer": "2; 10",
-              "image": "../../../data/7gr/1sem/Conditions/523.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/523.jpg",
               "decision": "../../../data/7gr/1sem/Solves/523.jpg"
             },
             {
               "number": 24,
               "correctAnswer": "70",
-              "image": "../../../data/7gr/1sem/Conditions/524.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/524.jpg",
               "decision": "../../../data/7gr/1sem/Solves/524.jpg"
             },
             {
               "number": 25,
               "correctAnswer": "96",
-              "image": "../../../data/7gr/1sem/Conditions/525.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/525.jpg",
               "decision": "../../../data/7gr/1sem/Solves/525.jpg"
             },
             {
               "number": 26,
               "correctAnswer": "10; 20",
-              "image": "../../../data/7gr/1sem/Conditions/526.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/526.jpg",
               "decision": "../../../data/7gr/1sem/Solves/526.jpg"
             },
             {
               "number": 27,
               "correctAnswer": "11; 18",
-              "image": "../../../data/7gr/1sem/Conditions/527.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/527.jpg",
               "decision": "../../../data/7gr/1sem/Solves/527.jpg"
             }
           ]
@@ -479,25 +479,25 @@
             {
               "number": 1,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/601.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/601.jpg",
               "decision": "../../../data/7gr/1sem/Solves/601.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/602.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/602.jpg",
               "decision": "../../../data/7gr/1sem/Solves/602.jpg"
             },
             {
               "number": 3,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/603.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/603.jpg",
               "decision": "../../../data/7gr/1sem/Solves/603.jpg"
             },
             {
               "number": 4,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/604.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/604.jpg",
               "decision": "../../../data/7gr/1sem/Solves/604.jpg"
             }
           ]
@@ -513,73 +513,73 @@
             {
               "number": 1,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/701.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/701.jpg",
               "decision": "../../../data/7gr/1sem/Solves/701.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/702.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/702.jpg",
               "decision": "../../../data/7gr/1sem/Solves/702.jpg"
             },
             {
               "number": 3,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/703.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/703.jpg",
               "decision": "../../../data/7gr/1sem/Solves/703.jpg"
             },
             {
               "number": 4,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/704.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/704.jpg",
               "decision": "../../../data/7gr/1sem/Solves/704.jpg"
             },
             {
               "number": 5,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/705.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/705.jpg",
               "decision": "../../../data/7gr/1sem/Solves/705.jpg"
             },
             {
               "number": 6,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/706.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/706.jpg",
               "decision": "../../../data/7gr/1sem/Solves/706.jpg"
             },
             {
               "number": 7,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/707.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/707.jpg",
               "decision": "../../../data/7gr/1sem/Solves/707.jpg"
             },
             {
               "number": 8,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/708.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/708.jpg",
               "decision": "../../../data/7gr/1sem/Solves/708.jpg"
             },
             {
               "number": 9,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/709.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/709.jpg",
               "decision": "../../../data/7gr/1sem/Solves/709.jpg"
             },
             {
               "number": 10,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/710.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/710.jpg",
               "decision": "../../../data/7gr/1sem/Solves/710.jpg"
             },
             {
               "number": 11,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/711.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/711.jpg",
               "decision": "../../../data/7gr/1sem/Solves/711.jpg"
             },
             {
               "number": 12,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/712.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/712.jpg",
               "decision": "../../../data/7gr/1sem/Solves/712.jpg"
             }
           ]
@@ -595,145 +595,145 @@
             {
               "number": 1,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/801.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/801.jpg",
               "decision": "../../../data/7gr/1sem/Solves/801.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/802.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/802.jpg",
               "decision": "../../../data/7gr/1sem/Solves/802.jpg"
             },
             {
               "number": 3,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/803.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/803.jpg",
               "decision": "../../../data/7gr/1sem/Solves/803.jpg"
             },
             {
               "number": 4,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/804.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/804.jpg",
               "decision": "../../../data/7gr/1sem/Solves/804.jpg"
             },
             {
               "number": 5,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/805.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/805.jpg",
               "decision": "../../../data/7gr/1sem/Solves/805.jpg"
             },
             {
               "number": 6,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/806.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/806.jpg",
               "decision": "../../../data/7gr/1sem/Solves/806.jpg"
             },
             {
               "number": 7,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/807.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/807.jpg",
               "decision": "../../../data/7gr/1sem/Solves/807.jpg"
             },
             {
               "number": 8,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/808.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/808.jpg",
               "decision": "../../../data/7gr/1sem/Solves/808.jpg"
             },
             {
               "number": 9,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/809.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/809.jpg",
               "decision": "../../../data/7gr/1sem/Solves/809.jpg"
             },
             {
               "number": 10,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/810.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/810.jpg",
               "decision": "../../../data/7gr/1sem/Solves/810.jpg"
             },
             {
               "number": 11,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/811.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/811.jpg",
               "decision": "../../../data/7gr/1sem/Solves/811.jpg"
             },
             {
               "number": 12,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/812.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/812.jpg",
               "decision": "../../../data/7gr/1sem/Solves/812.jpg"
             },
             {
               "number": 13,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/813.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/813.jpg",
               "decision": "../../../data/7gr/1sem/Solves/813.jpg"
             },
             {
               "number": 14,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/814.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/814.jpg",
               "decision": "../../../data/7gr/1sem/Solves/814.jpg"
             },
             {
               "number": 15,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/815.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/815.jpg",
               "decision": "../../../data/7gr/1sem/Solves/815.jpg"
             },
             {
               "number": 16,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/816.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/816.jpg",
               "decision": "../../../data/7gr/1sem/Solves/816.jpg"
             },
             {
               "number": 17,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/817.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/817.jpg",
               "decision": "../../../data/7gr/1sem/Solves/817.jpg"
             },
             {
               "number": 18,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/818.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/818.jpg",
               "decision": "../../../data/7gr/1sem/Solves/818.jpg"
             },
             {
               "number": 19,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/819.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/819.jpg",
               "decision": "../../../data/7gr/1sem/Solves/819.jpg"
             },
             {
               "number": 20,
               "correctAnswer": "ПОЗЖЕ",
-              "image": "../../../data/7gr/1sem/Conditions/820.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/820.jpg",
               "decision": "../../../data/7gr/1sem/Solves/820.jpg"
             },
             {
               "number": 21,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/821.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/821.jpg",
               "decision": "../../../data/7gr/1sem/Solves/821.jpg"
             },
             {
               "number": 22,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/822.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/822.jpg",
               "decision": "../../../data/7gr/1sem/Solves/822.jpg"
             },
             {
               "number": 23,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/823.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/823.jpg",
               "decision": "../../../data/7gr/1sem/Solves/823.jpg"
             },
             {
               "number": 24,
               "correctAnswer": "См. решение",
-              "image": "../../../data/7gr/1sem/Conditions/824.jpg",
+              "image": "../../../data/7gr/1sem/Tasks/824.jpg",
               "decision": "../../../data/7gr/1sem/Solves/824.jpg"
             }
           ]
