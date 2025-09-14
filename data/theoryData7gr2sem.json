@@ -1,66 +1,78 @@
 {
   "themes": [
     {
-      "name": "Арифметические операции",
+      "name": "Разложение многочленов на множители. Формулы сокращенного умножения.",
       "subthemes": [
         {
-          "name": "Сложение и вычитание",
           "content": [
             {
               "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Умножение и деление",
-          "content": [
-            {
-              "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
             }
           ]
         }
       ]
     },
     {
-      "name": "Дроби",
+      "name": "Функции и их графики",
       "subthemes": [
         {
-          "name": "Обыкновенные дроби",
           "content": [
             {
               "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Системы линейных уравнений и способы их решений",
+      "subthemes": [
         {
-          "name": "Десятичные дроби",
           "content": [
             {
               "type": "image",
-              "src": "../../../data/7gr/2sem/Theory/cat.jpg"
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Уравнения",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Задачи",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Геометрические задачи",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
             }
           ]
         }

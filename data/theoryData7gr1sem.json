@@ -1,40 +1,10 @@
 {
   "themes": [
     {
-      "name": "Арифметические операции",
+      "name": "Вычисление значений числовых выражений",
       "subthemes": [
         {
-          "name": "Сложение и вычитание",
           "content": [
-            {
-              "type": "image",
-              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Умножение и деление",
-          "content": [
-            {
-              "type": "image",
-              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
-            },
-            {
-              "type": "image",
-              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
-            },
             {
               "type": "image",
               "src": "../../../data/7gr/1sem/Theory/cat.jpg"
@@ -44,19 +14,87 @@
       ]
     },
     {
-      "name": "Дроби",
+      "name": "Действия со степенями с натуральным показателем",
       "subthemes": [
         {
-          "name": "Обыкновенные дроби",
           "content": [
             {
               "type": "image",
               "src": "../../../data/7gr/1sem/Theory/cat.jpg"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Решение линейных уравнений и уравнений, сводящихся к линейным",
+      "subthemes": [
         {
-          "name": "Десятичные дроби",
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Выражения и значения выражений",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Решение текстовых задач с помощью линейных уравнений и уравнений, сводящимся к линейным",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Понятие множества, диаграмма Эйлера-Венна",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Линейные уравнения с параметром уравнения с параметром сводящиеся к линейным",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Геометрия",
+      "subthemes": [
+        {
           "content": [
             {
               "type": "image",
