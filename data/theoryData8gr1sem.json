@@ -1,0 +1,30 @@
+{
+  "themes": [
+    {
+      "name": "Тема 1",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Тема 2",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/7gr/1sem/Theory/cat.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

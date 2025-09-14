@@ -1,7 +1,7 @@
 {
   "themes": [
     {
-      "name": "Название темы",
+      "name": "Тема 1",
       "subthemes": [
         {
           "name": "Название подтемы",
@@ -9,14 +9,14 @@
             {
               "number": 1,
               "correctAnswer": "правильный ответ",
-              "image": "путь/к/изображению/с/условием.jpg",
-              "decision": "путь/к/изображению/с/решением.jpg"
+              "image": "../../../data/8gr/1sem/Tasks/cat.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
             },
             {
               "number": 2,
               "correctAnswer": "правильный ответ",
-              "image": "путь/к/изображению/с/условием.jpg",
-              "decision": "путь/к/изображению/с/решением.jpg"
+              "image": "../../../data/8gr/1sem/Tasks/cat.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
             }
           ]
         },
@@ -26,15 +26,15 @@
             {
               "number": 1,
               "correctAnswer": "правильный ответ",
-              "image": "путь/к/изображению/с/условием.jpg",
-              "decision": "путь/к/изображению/с/решением.jpg"
+              "image": "../../../data/8gr/1sem/Tasks/cat.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
             }
           ]
         }
       ]
     },
     {
-      "name": "Другая тема",
+      "name": "Тема 2",
       "subthemes": [
         {
           "name": "Подтема",
@@ -42,8 +42,8 @@
             {
               "number": 1,
               "correctAnswer": "правильный ответ",
-              "image": "путь/к/изображению/с/условием.jpg",
-              "decision": "путь/к/изображению/с/решением.jpg"
+              "image": "../../../data/8gr/1sem/Tasks/cat.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
             }
           ]
         }

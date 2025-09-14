@@ -6,7 +6,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
-    <title>Варианты семестровой работы</title>
+    <title>Условия</title>
     <link rel="stylesheet" href="../../../styles/styles.css" />
 
     <!-- Yandex.Metrika counter -->
@@ -71,31 +71,28 @@
         <a href="../../../feedback.html" class="nav-item">Обратная связь</a>
       </div>
     </nav>
+
     <main>
       <section class="titles pagestitles">
-        <h1>Варианты</h1>
+        <h1>Условия</h1>
         <p>
-          Добро пожаловать на страницу с демовариантами семестровых работ 8
-          класса 1 семестра. Ответы записывайте в формате обыкновенной дроби,
-          возведение в степень с помощью знака ^, не равно как "!=", а если
-          ответов несколько, то записывайте их через знак ";" без пробелов.
-          (Например: 1/5;x^2)
+          Добро пожаловать на страницу с условиями из файла подготовки к
+          семестровой работе 8 класса 1 семестра.
         </p>
       </section>
 
-      <div class="semester-buttons">
-        <button class="generate-button" data-variant="1">Вариант 1</button>
-        <button class="generate-button" data-variant="2">Вариант 2</button>
-        <button class="generate-button" data-variant="3">Вариант 3</button>
+      <div class="conditions-container">
+        <img src="../../../data/8gr/1sem/Conditions/cat.jpg" alt="Условия" />
       </div>
-      <div id="semester-variants">
-        <!-- Варианты семестровых работ будут вставлены сюда -->
+      <div class="pdf-link">
+        <p>Условия семестровой работы доступны также в PDF формате:</p>
+        <a
+          href="../../../data/7gr/1sem/Conditions/8gr1sem.pdf"
+          class="pdf-download-link"
+        >
+          Скачать условия семестровой работы (PDF)
+        </a>
       </div>
-      <button id="submit-semester-button" style="display: none">
-        Проверить ответы
-      </button>
-      <p id="total-score" style="display: none"></p>
-      <!-- <button class="back-button" onclick="window.location.href='index.html'">На главную</button> -->
     </main>
     <footer>
       <div class="footer-content">
@@ -112,11 +109,6 @@
           <a class="underline" href="\feedback.html">здесь</a>
         </div>
       </div>
-      <div
-        id="data-container"
-        data-file="../../../data/quizData8gr1sem.json"
-      ></div>
     </footer>
-    <script type="module" src="../../../scripts/VariantsScript.js"></script>
   </body>
 </html>
