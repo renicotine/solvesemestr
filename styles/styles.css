@@ -585,12 +585,13 @@ footer {
     grid-template-areas:
       "title"
       "buttons";
+    gap: var(--space-xxxxl);
   }
   body {
     grid-template-rows: 60px 1fr auto;
   }
   main {
-    padding: var(--space-xxl) 0;
+    padding: var(--space-xxxl) 0;
   }
 
   .main-photo-home {
