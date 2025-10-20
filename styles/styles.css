@@ -307,6 +307,7 @@ img,
   align-items: center;
   gap: var(--space-md);
   width: 100%;
+    white-space: pre-line; /* Сохраняет переносы строк */
 }
 
 .answer-input {
