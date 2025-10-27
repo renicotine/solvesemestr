@@ -64,6 +64,32 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Преобразование числовых выражений, содержащих квадратные корни",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/8gr/1sem/Theory/t6.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Геометрия",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/8gr/1sem/Theory/t7.jpg"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
