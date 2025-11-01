@@ -5,12 +5,14 @@
       "tasks": [
         {
           "number": 1,
+          "condition": "Вычислите:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var1/Uslovia/01.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var1/Scan/01.jpg"
         },
         {
           "number": 2,
+          "condition": "Упростите выражение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var1/Uslovia/02.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var1/Scan/02.jpg"
@@ -23,12 +25,14 @@
         },
         {
           "number": 4,
+          "condition": "Решите уравнение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var1/Uslovia/04.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var1/Scan/04.jpg"
         },
         {
           "number": 5,
+          "condition": "Решите уравнение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var1/Uslovia/05.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var1/Scan/05.jpg"
@@ -88,6 +92,7 @@
         },
         {
           "number": 2,
+          "condition": "Упростите выражение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/02.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/02.jpg"
@@ -100,12 +105,14 @@
         },
         {
           "number": 4,
+          "condition": "Решите уравнение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/04.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/04.jpg"
         },
         {
           "number": 5,
+          "condition": "Решите уравнение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/05.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/05.jpg"
@@ -159,12 +166,14 @@
       "tasks": [
         {
           "number": 1,
+          "condition": "Вычислите:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/01.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/01.jpg"
         },
         {
           "number": 2,
+          "condition": "Упростите выражение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/02.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/02.jpg"
@@ -177,12 +186,14 @@
         },
         {
           "number": 4,
+          "condition": "Решите уравнение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/04.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/04.jpg"
         },
         {
           "number": 5,
+          "condition": "Решите уравнение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/05.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/05.jpg"
@@ -236,12 +247,14 @@
       "tasks": [
         {
           "number": 1,
+          "condition": "Вычислите:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/01.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/01.jpg"
         },
         {
           "number": 2,
+          "condition": "Упростите выражение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/02.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/02.jpg"
@@ -254,12 +267,14 @@
         },
         {
           "number": 4,
+          "condition": "Решите уравнение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/04.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/04.jpg"
         },
         {
           "number": 5,
+          "condition": "Решите уравнение:",
           "correctAnswer": "правильный ответ",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/05.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/05.jpg"

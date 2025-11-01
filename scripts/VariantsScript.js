@@ -49,6 +49,7 @@ async function generateVariant(variantNumber) {
   variantTitle.textContent = `Вариант ${variantNumber}`;
   variantContainer.appendChild(variantTitle);
 
+  // Создаем контейнер для задач
   const tasksContainer = document.createElement("div");
   tasksContainer.classList.add("tasks-container");
 
@@ -61,6 +62,14 @@ async function generateVariant(variantNumber) {
     const taskHeader = document.createElement("h3");
     taskHeader.textContent = `Задание ${index + 1}`;
     taskElement.appendChild(taskHeader);
+
+    // Добавляем текстовое условие, если оно существует
+    if (task.condition) {
+      const conditionElement = document.createElement("p");
+      conditionElement.textContent = task.condition;
+      conditionElement.classList.add("task-condition");
+      taskElement.appendChild(conditionElement);
+    }
 
     const image = document.createElement("img");
     image.src = task.image;
