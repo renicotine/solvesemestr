@@ -83,24 +83,27 @@
         </p>
       </section>
 
-      <div class="semester-buttons">
-        <button class="generate-button" data-variant="1">Вариант 1</button>
-        <button class="generate-button" data-variant="2">Вариант 2</button>
-        <button class="generate-button" data-variant="3">Вариант 3</button>
-      </div>
-      <div id="semester-variants">
-        <!-- Варианты семестровых работ будут вставлены сюда -->
-      </div>
-      <button id="submit-semester-button" style="display: none">
-        Проверить ответы
-      </button>
-      <p id="total-score" style="display: none"></p>
-      <!-- <button class="back-button" onclick="window.location.href='index.html'">На главную</button> -->
+      <div class="container">
+        <h1>Варианты заданий</h1>
 
-      <div
-        class="elfsight-app-4096aa83-2e15-497b-8319-700dd3df1495"
-        data-elfsight-app-lazy
-      ></div>
+        <div id="variant-buttons-container" class="buttons-container">
+          <!-- Кнопки вариантов будут созданы динамически -->
+        </div>
+
+        <div id="variants-container">
+          <!-- Содержимое варианта будет отображаться здесь -->
+        </div>
+
+        <button
+          id="submit-variant-button"
+          class="submit-button"
+          style="display: none"
+        >
+          Проверить ответы
+        </button>
+
+        <div id="total-score" class="score-display" style="display: none"></div>
+      </div>
     </main>
     <footer>
       <div class="footer-content">
@@ -119,7 +122,7 @@
       </div>
       <div
         id="data-container"
-        data-file="../../../data/quizData8gr1sem.json"
+        data-file="../../../data/variantsData8gr1sem.json"
       ></div>
     </footer>
     <script type="module" src="../../../scripts/VariantsScript.js"></script>

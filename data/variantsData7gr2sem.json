@@ -1,0 +1,312 @@
+{
+  "variants": [
+    {
+      "number": 1,
+      "tasks": [
+        {
+          "number": 1,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/01.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/01.jpg"
+        },
+        {
+          "number": 2,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/02.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/02.jpg"
+        },
+        {
+          "number": 3,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/03.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/03.jpg"
+        },
+        {
+          "number": 4,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/04.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/04.jpg"
+        },
+        {
+          "number": 5,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/05.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/05.jpg"
+        },
+        {
+          "number": 6,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/06.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/06.jpg"
+        },
+        {
+          "number": 7,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/07.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/07.jpg"
+        },
+        {
+          "number": 8,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/08.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/08.jpg"
+        },
+        {
+          "number": 9,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/09.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/09.jpg"
+        },
+        {
+          "number": 10,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/10.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/10.jpg"
+        },
+        {
+          "number": 11,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/11.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/11.jpg"
+        },
+        {
+          "number": 12,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var1/Uslovia/12.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var1/Scan/12.jpg"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "tasks": [
+        {
+          "number": 1,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/01.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/01.jpg"
+        },
+        {
+          "number": 2,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/02.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/02.jpg"
+        },
+        {
+          "number": 3,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/03.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/03.jpg"
+        },
+        {
+          "number": 4,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/04.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/04.jpg"
+        },
+        {
+          "number": 5,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/05.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/05.jpg"
+        },
+        {
+          "number": 6,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/06.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/06.jpg"
+        },
+        {
+          "number": 7,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/07.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/07.jpg"
+        },
+        {
+          "number": 8,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/08.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/08.jpg"
+        },
+        {
+          "number": 9,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/09.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/09.jpg"
+        },
+        {
+          "number": 10,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/10.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/10.jpg"
+        },
+        {
+          "number": 11,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/11.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/11.jpg"
+        },
+        {
+          "number": 12,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var2/Uslovia/12.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var2/Scan/12.jpg"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "tasks": [
+        {
+          "number": 1,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/01.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/01.jpg"
+        },
+        {
+          "number": 2,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/02.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/02.jpg"
+        },
+        {
+          "number": 3,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/03.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/03.jpg"
+        },
+        {
+          "number": 4,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/04.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/04.jpg"
+        },
+        {
+          "number": 5,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/05.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/05.jpg"
+        },
+        {
+          "number": 6,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/06.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/06.jpg"
+        },
+        {
+          "number": 7,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/07.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/07.jpg"
+        },
+        {
+          "number": 8,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/08.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/08.jpg"
+        },
+        {
+          "number": 9,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/09.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/09.jpg"
+        },
+        {
+          "number": 10,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/10.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/10.jpg"
+        },
+        {
+          "number": 11,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/11.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/11.jpg"
+        },
+        {
+          "number": 12,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var3/Uslovia/12.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var3/Scan/12.jpg"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "tasks": [
+        {
+          "number": 1,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/01.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/01.jpg"
+        },
+        {
+          "number": 2,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/02.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/02.jpg"
+        },
+        {
+          "number": 3,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/03.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/03.jpg"
+        },
+        {
+          "number": 4,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/04.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/04.jpg"
+        },
+        {
+          "number": 5,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/05.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/05.jpg"
+        },
+        {
+          "number": 6,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/06.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/06.jpg"
+        },
+        {
+          "number": 7,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/07.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/07.jpg"
+        },
+        {
+          "number": 8,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/08.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/08.jpg"
+        },
+        {
+          "number": 9,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/09.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/09.jpg"
+        },
+        {
+          "number": 10,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/10.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/10.jpg"
+        },
+        {
+          "number": 11,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/11.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/11.jpg"
+        },
+        {
+          "number": 12,
+          "correctAnswer": "правильный ответ",
+          "image": "../../../data/7gr/2sem/Variants/var4/Uslovia/12.jpg",
+          "decision": "../../../data/7gr/2sem/Variants/var4/Scan/12.jpg"
+        }
+      ]
+    }
+  ]
+}

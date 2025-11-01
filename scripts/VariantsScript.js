@@ -1,83 +1,108 @@
-import { checkAnswer, showDecision, loadQuizData, calculateScore } from './common.js';
+import {
+  checkAnswer,
+  showDecision,
+  loadQuizData,
+  calculateScore,
+} from "./common.js";
 
-const semesterVariantsContainer = document.getElementById('semester-variants');
-const generateButtons = document.querySelectorAll('.generate-button');
-const submitSemesterButton = document.getElementById('submit-semester-button');
-const totalScoreDisplay = document.getElementById('total-score');
+const variantsContainer = document.getElementById("variants-container");
+const variantButtonsContainer = document.getElementById(
+  "variant-buttons-container"
+);
+const submitVariantButton = document.getElementById("submit-variant-button");
+const totalScoreDisplay = document.getElementById("total-score");
 
 let currentVariantTasks = [];
 
-async function generateSemesterVariant(variantNumber) {
-    const quizData = await loadQuizData();
-    currentVariantTasks = [];
-    semesterVariantsContainer.innerHTML = '';
-    
-    const variantContainer = document.createElement('div');
-    variantContainer.classList.add('tasks-container');
-    
-    const themeContainer = document.createElement('div');
-    themeContainer.classList.add('theme-container');
-    
-    const variantTitle = document.createElement('h2');
-    variantTitle.textContent = `Вариант ${variantNumber}`;
-    
-    themeContainer.appendChild(variantTitle);
-    variantContainer.appendChild(themeContainer);
-    semesterVariantsContainer.appendChild(variantContainer);
-    
-    let taskNumberInVariant = 1;
-    
-    quizData.themes.forEach(theme => {
-        theme.subthemes.forEach(subtheme => {
-            const subthemeList = document.createElement('ul');
-            subthemeList.classList.add('subtheme-list');
-            const subthemeTitle = document.createElement('h4');
-            const taskNumber = document.createElement('span');
-            taskNumber.textContent = `${taskNumberInVariant}. `;
-            taskNumber.classList.add('subtheme-number');
-            subthemeTitle.append(taskNumber, subtheme.name);
+// Функция для создания кнопок вариантов
+async function createVariantButtons() {
+  const quizData = await loadQuizData();
+  variantButtonsContainer.innerHTML = "";
 
-            const taskForVariant = subtheme.tasks.find(task => task.number == variantNumber);
-            const listItem = document.createElement('li');
-            listItem.classList.add('task-item');
-            
-            if (taskForVariant) {
-                currentVariantTasks.push(taskForVariant);
-                const image = document.createElement('img');
-                image.src = taskForVariant.image;
-                image.alt = 'задание';
-                image.classList.add('task-image');
-                
-                const input = document.createElement('input');
-                input.type = 'text';
-                input.placeholder = 'Введите ответ';
-                input.classList.add('answer-input');
-
-                const decisionButton = document.createElement('button');
-                decisionButton.textContent = 'Показать решение';
-                decisionButton.classList.add('decision-button');
-                decisionButton.style.display = 'none';
-                decisionButton.addEventListener('click', () => showDecision(taskForVariant.decision, listItem));
-
-                listItem.append(image, input, decisionButton);
-            } else {
-                listItem.textContent = 'Задание для данного варианта не найдено';
-            }
-            
-            themeContainer.append(subthemeTitle, subthemeList);
-            subthemeList.appendChild(listItem);
-            taskNumberInVariant++;
-        });
-    });
-    
-    submitSemesterButton.style.display = 'inline-block';
-    totalScoreDisplay.style.display = 'none';
+  quizData.variants.forEach((variant) => {
+    const button = document.createElement("button");
+    button.textContent = `Вариант ${variant.number}`;
+    button.classList.add("variant-button");
+    button.dataset.variant = variant.number;
+    button.addEventListener("click", () => generateVariant(variant.number));
+    variantButtonsContainer.appendChild(button);
+  });
 }
 
-generateButtons.forEach(button => {
-    button.addEventListener('click', () => generateSemesterVariant(button.dataset.variant));
+// Функция для генерации варианта
+async function generateVariant(variantNumber) {
+  const quizData = await loadQuizData();
+  currentVariantTasks = [];
+  variantsContainer.innerHTML = "";
+
+  const variantData = quizData.variants.find((v) => v.number == variantNumber);
+
+  if (!variantData) {
+    variantsContainer.innerHTML = "<p>Вариант не найден</p>";
+    return;
+  }
+
+  const variantContainer = document.createElement("div");
+  variantContainer.classList.add("variant-container");
+
+  const variantTitle = document.createElement("h2");
+  variantTitle.textContent = `Вариант ${variantNumber}`;
+  variantContainer.appendChild(variantTitle);
+
+  const tasksContainer = document.createElement("div");
+  tasksContainer.classList.add("tasks-container");
+
+  variantData.tasks.forEach((task, index) => {
+    currentVariantTasks.push(task);
+
+    const taskElement = document.createElement("div");
+    taskElement.classList.add("task-item");
+
+    const taskHeader = document.createElement("h3");
+    taskHeader.textContent = `Задание ${index + 1}`;
+    taskElement.appendChild(taskHeader);
+
+    const image = document.createElement("img");
+    image.src = task.image;
+    image.alt = `Задание ${index + 1}`;
+    image.classList.add("task-image");
+    taskElement.appendChild(image);
+
+    const inputContainer = document.createElement("div");
+    inputContainer.classList.add("input-container");
+
+    const input = document.createElement("input");
+    input.type = "text";
+    input.placeholder = "Введите ответ";
+    input.classList.add("answer-input");
+    input.dataset.taskIndex = index;
+
+    const decisionButton = document.createElement("button");
+    decisionButton.textContent = "Показать решение";
+    decisionButton.classList.add("decision-button");
+    decisionButton.style.display = "none";
+    decisionButton.addEventListener("click", () =>
+      showDecision(task.decision, taskElement)
+    );
+
+    inputContainer.appendChild(input);
+    inputContainer.appendChild(decisionButton);
+    taskElement.appendChild(inputContainer);
+
+    tasksContainer.appendChild(taskElement);
+  });
+
+  variantContainer.appendChild(tasksContainer);
+  variantsContainer.appendChild(variantContainer);
+
+  submitVariantButton.style.display = "inline-block";
+  totalScoreDisplay.style.display = "none";
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  createVariantButtons();
 });
 
-submitSemesterButton.addEventListener('click', () => {
-    calculateScore(currentVariantTasks, semesterVariantsContainer, totalScoreDisplay);
+submitVariantButton.addEventListener("click", () => {
+  calculateScore(currentVariantTasks, variantsContainer, totalScoreDisplay);
 });
