@@ -391,6 +391,12 @@ img,
   justify-content: center;
   margin-bottom: 20px;
   gap: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.input-container {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .generate-button,
