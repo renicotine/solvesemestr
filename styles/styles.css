@@ -750,3 +750,40 @@ button {
   font-size: 0.8em;
   color: var(--color-secondary);
 }
+
+/* Меню */
+
+[popover] {
+  &:popover-open {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+    @starting-style {
+      transform: translateY(30px) scale(0);
+      opacity: 0;
+    }
+  }
+  transform: translateY(-50px);
+  opacity: 0;
+  transition: transform, opacity, display allow-discrete, overlay allow-discrete;
+  transition-duration: 0.5s;
+  /* position-area: self-end; */
+  margin: initial;
+  transform-origin: top left;
+}
+
+.menu-content {
+  background-color: white;
+  border-radius: 4px;
+  padding: var(--space-sm) 0;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+}
+
+.menu-content a {
+  display: block;
+  padding: var(--space-sm) var(--space-md);
+  color: var(--color-text);
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
