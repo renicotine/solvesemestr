@@ -8,7 +8,7 @@ async function generateVariant() {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          question: "generate variant",
+          question: "Сгенерируй вариант",
         }),
       }
     );
