@@ -1,7 +1,7 @@
 async function generateVariant() {
   try {
     const response = await fetch(
-      "https://cloud.flowiseai.com/api/v1/prediction/3f36f232-040c-49ae-b640-51c05a2e9aea",
+      "https://cloud.flowiseai.com/api/v1/prediction/8263ee75-778b-480d-b622-0b4ddc6b44d0",
       {
         method: "POST",
         headers: {
