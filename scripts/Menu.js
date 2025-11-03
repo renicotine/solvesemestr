@@ -5,7 +5,7 @@ async function renderMenu() {
   dropdownContent.classList.add("dropdown-content");
 
   dropdownContent.innerHTML = `
-    <a href="/index.html">К выбору класса</a>
+    <a href="../../../index.html">К выбору класса</a>
     <a href="Menu.html">На главную</a>  
     <a href="Theory.html">Теория</a>
     <a href="Conditions.html">Условия</a>
