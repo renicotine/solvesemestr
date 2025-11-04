@@ -679,7 +679,7 @@ footer {
 
 /* Сброс увеличения на Айфонах */
 
-input[type="text"],
+/* input[type="text"],
 input[type="email"],
 input[type="password"],
 input[type="search"],
@@ -691,7 +691,7 @@ select,
 button {
   font-size: 16px !important;
   transform: translateZ(0);
-}
+} */
 
 /* ===== СТИЛИ СТРАНИЦЫ ОТЗЫВОВ ===== */
 
@@ -753,7 +753,7 @@ button {
 
 /* Меню */
 
-[popover] {
+/* [popover] {
   &:popover-open {
     transform: translateY(0) scale(1);
     opacity: 1;
@@ -766,7 +766,7 @@ button {
   opacity: 0;
   transition: transform, opacity, display allow-discrete, overlay allow-discrete;
   transition-duration: 0.5s;
-  /* position-area: self-end; */
+
   margin: initial;
   transform-origin: top left;
 }
@@ -786,4 +786,4 @@ button {
   color: var(--color-text);
   text-decoration: none;
   transition: background-color 0.3s ease;
-}
+} */
