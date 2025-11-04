@@ -1,61 +1,87 @@
-async function generateVariant() {
-  try {
-    const response = await fetch(
-      "https://cloud.flowiseai.com/api/v1/prediction/8263ee75-778b-480d-b622-0b4ddc6b44d0",
-      {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          question: "Сгенерируй вариант",
-        }),
-      }
-    );
+import { loadQuizData } from "./common.js";
 
-    const data = await response.json();
-    displayTasks(data.text);
-    // console.log(data.text);
-  } catch (error) {
-    console.error("Ошибка генерации:", error);
+const API_URL_71 =
+  "https://cloud.flowiseai.com/api/v1/prediction/8263ee75-778b-480d-b622-0b4ddc6b44d0";
+const API_URL_72 =
+  "https://cloud.flowiseai.com/api/v1/prediction/8263ee75-778b-480d-b622-0b4ddc6b44d0";
+
+// Загружаем и показываем дефолтный вариант при загрузке страницы
+async function loadDefaultVariant() {
+  const quizData = await loadQuizData();
+
+  if (quizData.variantText) {
+    displayTasks(quizData.variantText);
   }
 }
+
+document.addEventListener("DOMContentLoaded", function () {
+  const button71 = document.querySelector(".generate-button-71");
+  const button72 = document.querySelector(".generate-button-72");
+
+  if (button71) {
+    button71.addEventListener("click", () => generateVariant(API_URL_71));
+  }
+  if (button72) {
+    button72.addEventListener("click", () => generateVariant(API_URL_72));
+  }
+});
+
+// Основная функция генерации
+async function generateVariant(apiUrl) {
+  try {
+    const response = await fetch(apiUrl, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        question: "Сгенерируй вариант",
+      }),
+    });
+
+    const data = await response.json();
+    console.log("sответ от ИИ");
+
+    if (data && data.text) {
+      displayTasks(data.text);
+    }
+  } catch (error) {
+    console.error("Ошибка генерации:", error);
+    // При ошибке перезагружаем дефолтный вариант
+    loadDefaultVariant();
+  }
+}
+
+// Функция отображения + парсинга задач
 function displayTasks(aiText) {
   console.log("Полный ответ от ИИ:", aiText);
-
-  // Очищаем все задачи
+  // Очищаем задачи
   for (let i = 1; i <= 12; i++) {
     const taskElement = document.getElementById(`task${i}`);
-    if (taskElement) {
-      taskElement.textContent = "";
-    }
+    if (taskElement) taskElement.textContent = "";
   }
 
-  // Удаляем вступительный текст до первой "ЗАДАЧА 1:"
+  // Удаляем текст до первой "ЗАДАЧА 1:"
   const startIndex = aiText.indexOf("ЗАДАЧА 1:");
-  let cleanText = aiText;
-
-  if (startIndex !== -1) {
-    cleanText = aiText.substring(startIndex);
-  }
+  let cleanText = startIndex !== -1 ? aiText.substring(startIndex) : aiText;
 
   // Разбиваем по "ЗАДАЧА X:"
   const tasks = cleanText.split(/ЗАДАЧА\s*\d+:/).filter((task) => task.trim());
 
-  console.log("Найдено задач:", tasks.length);
-
-  // Вставляем задачи начиная с первой
+  // Вставляем задачи
   tasks.forEach((taskText, index) => {
     const taskNumber = index + 1;
     const taskElement = document.getElementById(`task${taskNumber}`);
     if (taskElement) {
-      // Убираем лишние пробелы и вставляем
       taskElement.textContent = taskText.trim();
-      console.log(`Задача ${taskNumber}:`, taskText.trim());
+      // console.log(`Задача ${taskNumber}:`, taskText.trim());
     }
   });
-  // Перерисовываем MathJax после вставки задач
+
   if (window.MathJax) {
     MathJax.typesetPromise?.();
   }
 }
+
+// Загружаем дефолтный вариант при старте
+document.addEventListener("DOMContentLoaded", loadDefaultVariant);

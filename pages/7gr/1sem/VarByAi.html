@@ -8,10 +8,11 @@
     />
     <title>Варианты от ии</title>
     <link rel="icon" type="image/png" href="../../../images/cat3.png" />
+    <script type="module" src="../../../scripts/VarByAi.js"></script>
 
     <script type="module" src="../../../scripts/Menu.js"></script>
     <link rel="stylesheet" href="../../../styles/styles.css" />
-    <script src="../../../scripts/VarByAi.js"></script>
+
     <!-- mathjax -->
     <script>
       window.MathJax = {
@@ -98,11 +99,18 @@
       <!-- <div class="content-grid-main"> -->
 
       <section class="titles pagestitles">
-        <h1>варианты от ии</h1>
-        <p>генератор вариков от ии тест 1 !СТРАНИЦА В РАЗРАБОТКЕ!</p>
+        <h1>Варианты от ии</h1>
+        <p>
+          Добро пожаловать на страницу генератор вариантов семестровой с помощью
+          ИИ. По умолчанию показывается дефолтный вариант, для того чтобы
+          сгенерировать новый вариант, нажмите кнопку. Генерация варианта
+          занимает около 5-10 секунд, если спустя это время новый вариант не
+          появился, значит регулярный лимит генераций исчерпан пользователями. В
+          таком случае попробуйте снова позже. СТРАНИЦА В РАЗРАБОТКЕ
+        </p>
       </section>
       <div class="buttons-container">
-        <button onclick="generateVariant()" class="generate-button">
+        <button class="generate-button generate-button-71">
           Сгенерировать вариант
         </button>
       </div>
@@ -110,76 +118,40 @@
       <div id="variant-1" class="variant-container container">
         <h2 class="variant-title">Вариант 1</h2>
         <div class="task-item">
-          <div class="task-text" id="task1">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task1"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task2">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task2"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task3">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task3"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task4">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task4"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task5">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task5"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task6">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task6"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task7">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task7"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task8">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task8"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task9">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task9"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task10">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task10"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task11">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task11"></div>
         </div>
         <div class="task-item">
-          <div class="task-text" id="task12">
-            Нажмите на кнопку "Сгенерировать вариант", чтобы сгенерировать
-            условие задачи
-          </div>
+          <div class="task-text" id="task12"></div>
         </div>
       </div>
 
@@ -201,6 +173,10 @@
           <a class="underline" href="../../../feedback.html">здесь</a>
         </div>
       </div>
+      <div
+        id="data-container"
+        data-file="../../../data/defaultAiVariantsData7gr1sem.json"
+      ></div>
     </footer>
   </body>
 </html>
