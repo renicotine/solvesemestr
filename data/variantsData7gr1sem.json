@@ -99,7 +99,7 @@
         },
         {
           "number": 3,
-          "correctAnswer": "5x-8;-5*2/3",
+          "correctAnswer": "5x-8;-5+2/3",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/03.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/03.jpg"
         },
@@ -261,7 +261,7 @@
         },
         {
           "number": 3,
-          "correctAnswer": "3-6y;6*(2/3)",
+          "correctAnswer": "3-6y;6+(2/3)",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/03.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/03.jpg"
         },
