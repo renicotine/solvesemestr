@@ -25,13 +25,13 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "x=1",
+              "correctAnswer": "x=-5",
               "image": "../../../data/8gr/1sem/Tasks/1121.jpg",
               "decision": "../../../data/8gr/1sem/Solves/1121.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "1/(a+1)",
+              "correctAnswer": "x=1",
               "image": "../../../data/8gr/1sem/Tasks/1122.jpg",
               "decision": "../../../data/8gr/1sem/Solves/1122.jpg"
             }
@@ -42,13 +42,13 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "x-2",
+              "correctAnswer": "1/(a+1)",
               "image": "../../../data/8gr/1sem/Tasks/1131.jpg",
               "decision": "../../../data/8gr/1sem/Solves/1131.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "См. ответ в решении задачи",
+              "correctAnswer": "x-2",
               "image": "../../../data/8gr/1sem/Tasks/1132.jpg",
               "decision": "../../../data/8gr/1sem/Solves/1132.jpg"
             }
