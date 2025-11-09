@@ -8,15 +8,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "x!=-6;-3;3;8",
               "image": "../../../data/8gr/1sem/Tasks/1111.jpg",
               "decision": "../../../data/8gr/1sem/Solves/1111.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "x!=-9;2",
               "image": "../../../data/8gr/1sem/Tasks/1112.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1112.jpg"
             }
           ]
         },
@@ -25,15 +25,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "23",
+              "correctAnswer": "x=1",
               "image": "../../../data/8gr/1sem/Tasks/1121.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/1111.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1121.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "1/(a+1)",
               "image": "../../../data/8gr/1sem/Tasks/1122.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1122.jpg"
             }
           ]
         },
@@ -42,15 +42,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "x-2",
               "image": "../../../data/8gr/1sem/Tasks/1131.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1131.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/1132.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1132.jpg"
             }
           ]
         },
@@ -59,9 +59,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/1141.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1141.jpg"
             }
           ]
         },
@@ -70,27 +70,27 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "4b^2+1",
               "image": "../../../data/8gr/1sem/Tasks/1151.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1151.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "(x-4)/(x-3)",
               "image": "../../../data/8gr/1sem/Tasks/1152.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1152.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "a+b",
               "image": "../../../data/8gr/1sem/Tasks/1153.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1153.jpg"
             },
             {
               "number": 4,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "0",
               "image": "../../../data/8gr/1sem/Tasks/1154.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1154.jpg"
             }
           ]
         },
@@ -99,15 +99,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "a-1",
               "image": "../../../data/8gr/1sem/Tasks/1161.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1161.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "-1",
               "image": "../../../data/8gr/1sem/Tasks/1162.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1162.jpg"
             }
           ]
         }
@@ -121,15 +121,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "x=-1;y=1",
               "image": "../../../data/8gr/1sem/Tasks/1211.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1211.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "x=-1;y=2",
               "image": "../../../data/8gr/1sem/Tasks/1212.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1212.jpg"
             }
           ]
         },
@@ -138,9 +138,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "b=-3;c=1/2",
               "image": "../../../data/8gr/1sem/Tasks/1221.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1221.jpg"
             }
           ]
         },
@@ -149,27 +149,27 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "a=1/7;b=-1/7",
               "image": "../../../data/8gr/1sem/Tasks/1231.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1231.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "a=2/5;b=-2/5",
               "image": "../../../data/8gr/1sem/Tasks/1232.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1232.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "a=3;b=-9;c=11",
               "image": "../../../data/8gr/1sem/Tasks/1233.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1233.jpg"
             },
             {
               "number": 4,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "a=-1/2;b=1/6;c=2/3",
               "image": "../../../data/8gr/1sem/Tasks/1234.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1234.jpg"
             }
           ]
         }
@@ -183,15 +183,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "x^3+2x^2-6+24-89/(x+3)",
               "image": "../../../data/8gr/1sem/Tasks/1311.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1311.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "5x^2+2x+5+(-4x-7)/(x^2-x+1)",
               "image": "../../../data/8gr/1sem/Tasks/1312.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/1312.jpg"
             }
           ]
         }
@@ -205,21 +205,21 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "0;4;6;8",
               "image": "../../../data/8gr/1sem/Tasks/2011.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/1111.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2011.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "2;8",
               "image": "../../../data/8gr/1sem/Tasks/2012.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2012.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "0",
               "image": "../../../data/8gr/1sem/Tasks/2013.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2013.jpg"
             }
           ]
         },
@@ -228,21 +228,21 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "23",
+              "correctAnswer": "0;2;4;6;8",
               "image": "../../../data/8gr/1sem/Tasks/2021.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/1111.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2021.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "1;4;7",
               "image": "../../../data/8gr/1sem/Tasks/2022.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2022.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "0",
               "image": "../../../data/8gr/1sem/Tasks/2023.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2023.jpg"
             }
           ]
         },
@@ -251,15 +251,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "9",
               "image": "../../../data/8gr/1sem/Tasks/2031.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2031.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "12",
               "image": "../../../data/8gr/1sem/Tasks/2032.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2032.jpg"
             }
           ]
         },
@@ -268,9 +268,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "n=7;n=-3",
               "image": "../../../data/8gr/1sem/Tasks/2041.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2041.jpg"
             }
           ]
         },
@@ -279,15 +279,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/2051.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2051.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/2052.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2052.jpg"
             }
           ]
         },
@@ -296,21 +296,21 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "29",
               "image": "../../../data/8gr/1sem/Tasks/2061.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2061.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "13",
               "image": "../../../data/8gr/1sem/Tasks/2062.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2062.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "1",
               "image": "../../../data/8gr/1sem/Tasks/2063.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2063.jpg"
             }
           ]
         },
@@ -319,21 +319,21 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "576",
               "image": "../../../data/8gr/1sem/Tasks/2071.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2071.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "1680",
               "image": "../../../data/8gr/1sem/Tasks/2072.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2072.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "12",
               "image": "../../../data/8gr/1sem/Tasks/2073.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2073.jpg"
             }
           ]
         },
@@ -342,15 +342,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "(1,2);(-1,2);(3,2);(-5,2)",
               "image": "../../../data/8gr/1sem/Tasks/2081.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2081.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "(16,3);(-18,1);(0,19);(-2,-15)",
               "image": "../../../data/8gr/1sem/Tasks/2082.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2082.jpg"
             }
           ]
         },
@@ -359,15 +359,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "(4,0);(0,-2);(3,1);(1,0)",
               "image": "../../../data/8gr/1sem/Tasks/2091.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2091.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "3m",
               "image": "../../../data/8gr/1sem/Tasks/2092.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2092.jpg"
             }
           ]
         },
@@ -376,9 +376,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "2;5;8",
               "image": "../../../data/8gr/1sem/Tasks/2101.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2101.jpg"
             }
           ]
         },
@@ -387,9 +387,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "71010;91910;71415",
               "image": "../../../data/8gr/1sem/Tasks/2111.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2111.jpg"
             }
           ]
         },
@@ -398,9 +398,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/2121.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2121.jpg"
             }
           ]
         },
@@ -409,9 +409,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/2131.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2131.jpg"
             }
           ]
         },
@@ -420,9 +420,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "62",
               "image": "../../../data/8gr/1sem/Tasks/2141.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2141.jpg"
             }
           ]
         },
@@ -431,9 +431,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/2151.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2151.jpg"
             }
           ]
         },
@@ -442,9 +442,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "(5,2);(15,-1)",
               "image": "../../../data/8gr/1sem/Tasks/2161.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2161.jpg"
             }
           ]
         },
@@ -453,9 +453,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "(4,12);(6,8);(12,4)",
               "image": "../../../data/8gr/1sem/Tasks/2171.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2171.jpg"
             }
           ]
         },
@@ -464,9 +464,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/2181.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/2181.jpg"
             }
           ]
         }
@@ -480,27 +480,27 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "[-1,4];1",
               "image": "../../../data/8gr/1sem/Tasks/3011.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3011.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "[3;7];2/3",
               "image": "../../../data/8gr/1sem/Tasks/3021.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3021.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "(-1,15);6/5",
               "image": "../../../data/8gr/1sem/Tasks/3031.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3031.jpg"
             },
             {
               "number": 4,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "[-5,16);8/3",
               "image": "../../../data/8gr/1sem/Tasks/3041.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3041.jpg"
             }
           ]
         },
@@ -509,9 +509,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/3051.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3051.jpg"
             }
           ]
         },
@@ -520,9 +520,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/3061.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3061.jpg"
             }
           ]
         },
@@ -531,9 +531,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/3071.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3071.jpg"
             }
           ]
         },
@@ -542,9 +542,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/3081.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3081.jpg"
             }
           ]
         },
@@ -553,9 +553,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "528",
               "image": "../../../data/8gr/1sem/Tasks/3091.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3091.jpg"
             }
           ]
         },
@@ -564,9 +564,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "205",
               "image": "../../../data/8gr/1sem/Tasks/3101.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3101.jpg"
             }
           ]
         },
@@ -575,9 +575,9 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "2;18",
               "image": "../../../data/8gr/1sem/Tasks/3111.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/3111.jpg"
             }
           ]
         }
@@ -591,21 +591,21 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "7/90;2387/900;1783/495",
               "image": "../../../data/8gr/1sem/Tasks/4011.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4011.jpg"
             },
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4021.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4021.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "-5*sqrt(3)/2",
               "image": "../../../data/8gr/1sem/Tasks/4031.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4031.jpg"
             }
           ]
         },
@@ -614,21 +614,21 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "2*sqrt(7)",
               "image": "../../../data/8gr/1sem/Tasks/4041.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4041.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "-11/3",
               "image": "../../../data/8gr/1sem/Tasks/4042.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4042.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "2",
               "image": "../../../data/8gr/1sem/Tasks/4043.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4043.jpg"
             }
           ]
         },
@@ -637,15 +637,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "1/(sqrt(a)+sqrt(2))",
               "image": "../../../data/8gr/1sem/Tasks/4051.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4051.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "25b+2a-4",
               "image": "../../../data/8gr/1sem/Tasks/4052.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4052.jpg"
             }
           ]
         },
@@ -654,15 +654,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "10a-3b",
               "image": "../../../data/8gr/1sem/Tasks/4061.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4061.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "x=2;x=3",
               "image": "../../../data/8gr/1sem/Tasks/4062.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4062.jpg"
             }
           ]
         },
@@ -671,15 +671,15 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4071.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4071.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4072.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4072.jpg"
             }
           ]
         },
@@ -688,21 +688,21 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4081.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4081.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4082.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4082.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4083.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4083.jpg"
             }
           ]
         },
@@ -711,57 +711,57 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "нет",
               "image": "../../../data/8gr/1sem/Tasks/4091.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4091.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "-2",
               "image": "../../../data/8gr/1sem/Tasks/4101.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4101.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "-3",
               "image": "../../../data/8gr/1sem/Tasks/4111.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4111.jpg"
             },
             {
               "number": 4,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "1",
               "image": "../../../data/8gr/1sem/Tasks/4121.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4121.jpg"
             },
             {
               "number": 5,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "20;6*sqrt(11)",
               "image": "../../../data/8gr/1sem/Tasks/4131.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4131.jpg"
             },
             {
               "number": 6,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4141.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4141.jpg"
             },
             {
               "number": 7,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4151.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4151.jpg"
             },
             {
               "number": 8,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4161.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4161.jpg"
             },
             {
               "number": 9,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4171.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/4171.jpg"
             }
           ]
         }
@@ -775,129 +775,129 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5011.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5011.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5021.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5021.jpg"
             },
             {
               "number": 3,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5031.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5031.jpg"
             },
             {
               "number": 4,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5041.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5041.jpg"
             },
             {
               "number": 5,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5051.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5051.jpg"
             },
             {
               "number": 6,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5061.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5061.jpg"
             },
             {
               "number": 7,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5071.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5071.jpg"
             },
             {
               "number": 8,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5081.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5081.jpg"
             },
             {
               "number": 9,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5091.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5091.jpg"
             },
             {
               "number": 10,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5101.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5101.jpg"
             },
             {
               "number": 11,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5111.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5111.jpg"
             },
             {
               "number": 12,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5121.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5121.jpg"
             },
             {
               "number": 13,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5131.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5131.jpg"
             },
             {
               "number": 14,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5141.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5141.jpg"
             },
             {
               "number": 15,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5151.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5151.jpg"
             },
             {
               "number": 16,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5161.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5161.jpg"
             },
             {
               "number": 17,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5171.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5171.jpg"
             },
             {
               "number": 18,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5181.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5181.jpg"
             },
             {
               "number": 19,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5191.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5191.jpg"
             },
             {
               "number": 20,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5201.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5201.jpg"
             },
             {
               "number": 21,
-              "correctAnswer": "правильный ответ",
+              "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5211.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/cat.jpg"
+              "decision": "../../../data/8gr/1sem/Solves/5211 .jpg"
             }
           ]
         }
