@@ -167,7 +167,7 @@
             },
             {
               "number": 4,
-              "correctAnswer": "a=-1/2;b=1/6;c=2/3",
+              "correctAnswer": "a=-1/2;b=1/6;c=4/3",
               "image": "../../../data/8gr/1sem/Tasks/1234.jpg",
               "decision": "../../../data/8gr/1sem/Solves/1234.jpg"
             }
@@ -205,13 +205,13 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "0;4;6;8",
+              "correctAnswer": "{0;4;6;8}",
               "image": "../../../data/8gr/1sem/Tasks/2011.jpg",
               "decision": "../../../data/8gr/1sem/Solves/2011.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "2;8",
+              "correctAnswer": "{2;8}",
               "image": "../../../data/8gr/1sem/Tasks/2012.jpg",
               "decision": "../../../data/8gr/1sem/Solves/2012.jpg"
             },
@@ -228,13 +228,13 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "0;2;4;6;8",
+              "correctAnswer": "{0;2;4;6;8}",
               "image": "../../../data/8gr/1sem/Tasks/2021.jpg",
               "decision": "../../../data/8gr/1sem/Solves/2021.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "1;4;7",
+              "correctAnswer": "{1;4;7}",
               "image": "../../../data/8gr/1sem/Tasks/2022.jpg",
               "decision": "../../../data/8gr/1sem/Solves/2022.jpg"
             },
@@ -442,7 +442,7 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "(5,2);(15,-1)",
+              "correctAnswer": "(5,-2);(15,-1)",
               "image": "../../../data/8gr/1sem/Tasks/2161.jpg",
               "decision": "../../../data/8gr/1sem/Solves/2161.jpg"
             }
