@@ -45,13 +45,13 @@
         },
         {
           "number": 7,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "75",
           "image": "../../../data/7gr/1sem/Variants/var1/Uslovia/07.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var1/Scan/07.jpg"
         },
         {
           "number": 8,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "432",
           "image": "../../../data/7gr/1sem/Variants/var1/Uslovia/08.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var1/Scan/08.jpg"
         },
@@ -63,13 +63,13 @@
         },
         {
           "number": 10,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "30;30;150;150",
           "image": "../../../data/7gr/1sem/Variants/var1/Uslovia/10.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var1/Scan/10.jpg"
         },
         {
           "number": 11,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "30",
           "image": "../../../data/7gr/1sem/Variants/var1/Uslovia/11.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var1/Scan/11.jpg"
         },
@@ -86,46 +86,46 @@
       "tasks": [
         {
           "number": 1,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "1",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/01.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/01.jpg"
         },
         {
           "number": 2,
           "condition": "Упростите выражение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "(72yz^2)/25",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/02.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/02.jpg"
         },
         {
           "number": 3,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "5x-8;-5*2/3",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/03.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/03.jpg"
         },
         {
           "number": 4,
           "condition": "Решите уравнение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "2",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/04.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/04.jpg"
         },
         {
           "number": 5,
           "condition": "Решите уравнение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "-5",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/05.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/05.jpg"
         },
         {
           "number": 6,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "21",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/06.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/06.jpg"
         },
         {
           "number": 7,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "240",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/07.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/07.jpg"
         },
@@ -137,13 +137,13 @@
         },
         {
           "number": 9,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "2215",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/09.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/09.jpg"
         },
         {
           "number": 10,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "7,5;7,5;3",
           "image": "../../../data/7gr/1sem/Variants/var2/Uslovia/10.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var2/Scan/10.jpg"
         },
@@ -167,46 +167,46 @@
         {
           "number": 1,
           "condition": "Вычислите:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "21,6",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/01.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/01.jpg"
         },
         {
           "number": 2,
           "condition": "Упростите выражение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "-(72b^3)/(25a^2)",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/02.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/02.jpg"
         },
         {
           "number": 3,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "2023;-27b^3+25a b^2",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/03.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/03.jpg"
         },
         {
           "number": 4,
           "condition": "Решите уравнение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "0;4;0,6",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/04.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/04.jpg"
         },
         {
           "number": 5,
           "condition": "Решите уравнение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "-5;-2",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/05.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/05.jpg"
         },
         {
           "number": 6,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "90",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/06.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/06.jpg"
         },
         {
           "number": 7,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "9",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/07.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/07.jpg"
         },
@@ -218,19 +218,19 @@
         },
         {
           "number": 9,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "9;12;15",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/09.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/09.jpg"
         },
         {
           "number": 10,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "6;6;4",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/10.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/10.jpg"
         },
         {
           "number": 11,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "5",
           "image": "../../../data/7gr/1sem/Variants/var3/Uslovia/11.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var3/Scan/11.jpg"
         },
@@ -248,46 +248,46 @@
         {
           "number": 1,
           "condition": "Вычислите:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "4/75",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/01.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/01.jpg"
         },
         {
           "number": 2,
           "condition": "Упростите выражение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "(36z)/(25y^4)",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/02.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/02.jpg"
         },
         {
           "number": 3,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "3-6y;6*(2/3)",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/03.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/03.jpg"
         },
         {
           "number": 4,
           "condition": "Решите уравнение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "-1",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/04.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/04.jpg"
         },
         {
           "number": 5,
           "condition": "Решите уравнение:",
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "-5;-2",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/05.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/05.jpg"
         },
         {
           "number": 6,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "100",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/06.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/06.jpg"
         },
         {
           "number": 7,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "75",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/07.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/07.jpg"
         },
@@ -299,19 +299,19 @@
         },
         {
           "number": 9,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "350",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/09.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/09.jpg"
         },
         {
           "number": 10,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "7,5;7,5;5",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/10.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/10.jpg"
         },
         {
           "number": 11,
-          "correctAnswer": "См. ответ в решении задачи",
+          "correctAnswer": "7",
           "image": "../../../data/7gr/1sem/Variants/var4/Uslovia/11.jpg",
           "decision": "../../../data/7gr/1sem/Variants/var4/Scan/11.jpg"
         },
