@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Варианты от ии</title>
+    <link rel="icon" type="image/png" href="../../../images/cat3.png" />
+    <script type="module" src="../../../scripts/VarByAi.js"></script>
+
+    <script type="module" src="../../../scripts/Menu.js"></script>
+    <link rel="stylesheet" href="../../../styles/styles.css" />
+
+    <!-- mathjax -->
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [
+            ["$", "$"],
+            ["\\(", "\\)"],
+          ],
+          displayMath: [
+            ["$$", "$$"],
+            ["\\[", "\\]"],
+          ],
+        },
+        svg: {
+          fontCache: "global",
+        },
+      };
+    </script>
+    <script
+      type="text/javascript"
+      id="MathJax-script"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"
+    ></script>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+      (function (m, e, t, r, i, k, a) {
+        m[i] =
+          m[i] ||
+          function () {
+            (m[i].a = m[i].a || []).push(arguments);
+          };
+        m[i].l = 1 * new Date();
+        for (var j = 0; j < document.scripts.length; j++) {
+          if (document.scripts[j].src === r) {
+            return;
+          }
+        }
+        (k = e.createElement(t)),
+          (a = e.getElementsByTagName(t)[0]),
+          (k.async = 1),
+          (k.src = r),
+          a.parentNode.insertBefore(k, a);
+      })(
+        window,
+        document,
+        "script",
+        "https://mc.yandex.ru/metrika/tag.js",
+        "ym"
+      );
+
+      ym(100973590, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+      });
+    </script>
+    <noscript>
+      <div>
+        <img
+          src="https://mc.yandex.ru/watch/100973590"
+          style="position: absolute; left: -9999px"
+          alt=""
+        />
+      </div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+  </head>
+
+  <body>
+    <nav>
+      <a href="../../../index.html" class="nav-link active">РЕШИ СЕМЕСТРОВУЮ</a>
+      <div class="header-nav">
+        <div class="dropdown">
+          <a href="#" class="nav-item dropdown-toggle">Меню</a>
+        </div>
+        <a href="../../../feedback.html" class="nav-item">Обратная связь</a>
+      </div>
+    </nav>
+
+    <main>
+      <!-- <div class="content-grid-main"> -->
+
+      <section class="titles pagestitles">
+        <h1>Варианты от ии</h1>
+        <p>
+          Добро пожаловать на страницу создания вариантов семестровой с помощью
+          нейросети. Для того, чтобы увидеть новый вариант, нажмите
+          «Сгенерировать вариант». Создание семестровой занимает около 5-10
+          секунд, если данные не обновились, то значит, что ежемесячное
+          количество обращений к ИИ исчерпано другими пользователями. Попробуйте
+          позже. Мы не несем ответственности за контент, созданный нейросетью!
+        </p>
+      </section>
+      <div class="buttons-container">
+        <button class="generate-button generate-button-72">
+          Сгенерировать вариант
+        </button>
+      </div>
+
+      <div id="variant-1" class="variant-container container">
+        <h2 class="variant-title">Вариант 1</h2>
+        <div class="task-item">
+          <div class="task-text" id="task1"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task2"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task3"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task4"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task5"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task6"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task7"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task8"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task9"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task10"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task11"></div>
+        </div>
+        <div class="task-item">
+          <div class="task-text" id="task12"></div>
+        </div>
+      </div>
+
+      <!-- </div> -->
+    </main>
+
+    <footer>
+      <div class="footer-content">
+        <div class="footer-text">
+          *Ресурс <strong>не является официальным</strong> и создан учениками
+          для учеников
+        </div>
+        <div class="footer-text">
+          (c) <strong>Никотина</strong> Ирина и
+          <strong>Белошейкин</strong> Кирилл, 2025
+        </div>
+        <div class="footer-text">
+          Мы рады обратной связи! Оставить отзыв можно
+          <a class="underline" href="../../../feedback.html">здесь</a>
+        </div>
+      </div>
+      <div
+        id="data-container"
+        data-file="../../../data/defaultAiVariantsData7gr2sem.json"
+      ></div>
+    </footer>
+  </body>
+</html>

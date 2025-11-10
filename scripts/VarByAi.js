@@ -3,7 +3,7 @@ import { loadQuizData } from "./common.js";
 const API_URL_71 =
   "https://cloud.flowiseai.com/api/v1/prediction/8263ee75-778b-480d-b622-0b4ddc6b44d0";
 const API_URL_72 =
-  "https://cloud.flowiseai.com/api/v1/prediction/8263ee75-778b-480d-b622-0b4ddc6b44d0";
+  "https://cloud.flowiseai.com/api/v1/prediction/9ba6935b-69bb-4c44-8d60-e7c033e9a334";
 
 // Загружаем и показываем дефолтный вариант при загрузке страницы
 async function loadDefaultVariant() {
