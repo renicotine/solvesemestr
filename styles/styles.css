@@ -24,10 +24,10 @@
   --font-size-xs: 10px;
   --font-size-sm: 12px;
   --font-size-md: 14px;
-  --font-size-lg: 15px;
+  --font-size-lg: 14px;
   --font-size-xl: 20px;
   --font-size-xxl: 24px;
-  --font-size-xxxl: 35px;
+  --font-size-xxxl: 32px;
   --font-size-main: 24px;
 
   /* Отступы */
@@ -125,6 +125,7 @@ main {
   grid-template-columns: 1fr minmax(auto, 1289px) 1fr;
   grid-template-rows: auto;
   padding: var(--space-md) 0;
+  /* background-color: aqua; */
   /* gap: var(--space-xs); */
 }
 
@@ -193,7 +194,7 @@ main > * {
 
 .button-main {
   width: 100%;
-  height: 70px;
+  height: 60px;
   padding: var(--space-xs) var(--space-xl) var(--space-xs) var(--space-xs);
   border: var(--border-width-thick) solid var(--color-primary);
   border-radius: var(--border-radius-md);
@@ -210,8 +211,8 @@ main > * {
   text-decoration: none;
 }
 .button-imgs {
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   margin-right: var(--space-md);
 }
 .button-main:hover {
@@ -245,6 +246,17 @@ main > * {
   font-size: var(--font-size-lg);
   font-family: var(--font-main);
   line-height: 1.5;
+}
+
+.conditions-container {
+  color: var(--color-text);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-main);
+  font-weight: var(--font-weight-black);
+  line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* ===== КОНТЕЙНЕРЫ ===== */
@@ -486,7 +498,7 @@ footer {
 
 .footer-text {
   color: var(--color-white);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-sm);
   font-family: var(--font-main);
 }
 
@@ -507,21 +519,21 @@ footer {
 }
 
 /* ===== АДАПТИВНОСТЬ ===== */
-@media (min-width: 1480px) {
+@media (min-width: 1400px) {
   main {
-    padding: var(--space-xxxxl) 0;
+    padding: var(--space-xxl) 0;
     /* grid-template-columns: 1fr minmax(auto, 1500px) 1fr; */
   }
   .main-photo-home {
     grid-area: image;
-    width: 550px;
+    width: 450px;
     height: auto;
   }
 }
 @media (max-width: 1280px) {
   main {
     grid-template-columns: var(--space-md) 1fr var(--space-md);
-    padding: var(--space-xxxxl) 0;
+    padding: var(--space-xxl) 0;
   }
 
   .content-grid-main {
