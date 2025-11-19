@@ -637,7 +637,7 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "1/(sqrt(a)+sqrt(2))",
+              "correctAnswer": "2",
               "image": "../../../data/8gr/1sem/Tasks/4051.jpg",
               "decision": "../../../data/8gr/1sem/Solves/4051.jpg"
             },
@@ -654,13 +654,13 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "10a-3b",
+              "correctAnswer": "1/(sqrt(a)+sqrt(2))",
               "image": "../../../data/8gr/1sem/Tasks/4061.jpg",
               "decision": "../../../data/8gr/1sem/Solves/4061.jpg"
             },
             {
               "number": 2,
-              "correctAnswer": "x=2;x=3",
+              "correctAnswer": "10a-3b",
               "image": "../../../data/8gr/1sem/Tasks/4062.jpg",
               "decision": "../../../data/8gr/1sem/Solves/4062.jpg"
             }
@@ -671,7 +671,7 @@
           "tasks": [
             {
               "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
+              "correctAnswer": "x=2;x=3",
               "image": "../../../data/8gr/1sem/Tasks/4071.jpg",
               "decision": "../../../data/8gr/1sem/Solves/4071.jpg"
             },
