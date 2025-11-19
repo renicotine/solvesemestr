@@ -674,12 +674,6 @@
               "correctAnswer": "x=2;x=3",
               "image": "../../../data/8gr/1sem/Tasks/4071.jpg",
               "decision": "../../../data/8gr/1sem/Solves/4071.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/4072.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/4072.jpg"
             }
           ]
         },
