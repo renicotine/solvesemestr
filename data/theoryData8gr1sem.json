@@ -90,6 +90,32 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Квадратные уравнения",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/8gr/1sem/Theory/t8.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Задачи на составление уравнений",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/8gr/1sem/Theory/t9.jpg"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

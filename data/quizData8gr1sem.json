@@ -762,6 +762,30 @@
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/4171.jpg",
               "decision": "../../../data/8gr/1sem/Solves/4171.jpg"
+            },
+            {
+              "number": 10,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/4181.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/4181.jpg"
+            },
+            {
+              "number": 11,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/4182.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/4182.jpg"
+            },
+            {
+              "number": 12,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/4183.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/4183.jpg"
+            },
+            {
+              "number": 13,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/4184.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/4184.jpg"
             }
           ]
         }
@@ -907,7 +931,93 @@
       "name": "Квадратные уравнения",
       "subthemes": [
         {
-          "name": "Раздел в разработке, скоро здесь будут задачи"
+          "name": "Раздел в разработке, скоро здесь будут задачи",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6011.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6011.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6012.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6012.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6013.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6013.jpg"
+            },
+            {
+              "number": 4,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6014.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6014.jpg"
+            },
+            {
+              "number": 5,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6015.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6015.jpg"
+            },
+            {
+              "number": 6,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6111.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6111.jpg"
+            },
+            {
+              "number": 7,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6112.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6112.jpg"
+            },
+            {
+              "number": 8,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6113.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6113.jpg"
+            },
+            {
+              "number": 9,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6114.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6114.jpg"
+            },
+            {
+              "number": 10,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6211.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6211.jpg"
+            },
+            {
+              "number": 11,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6212.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6212.jpg"
+            },
+            {
+              "number": 12,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6213.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6213.jpg"
+            },
+            {
+              "number": 13,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6214.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6214.jpg"
+            },
+            {
+              "number": 14,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/6215.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/6215.jpg"
+            }
+          ]
         }
       ]
     },
@@ -915,7 +1025,39 @@
       "name": "Графики функций",
       "subthemes": [
         {
-          "name": "Раздел в разработке, скоро здесь будут задачи"
+          "name": "Раздел в разработке, скоро здесь будут задачи",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/7012.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/7012.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/7013.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/7013.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/7014.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/7014.jpg"
+            },
+            {
+              "number": 4,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/7015.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/7015.jpg"
+            },
+            {
+              "number": 5,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/7016.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/7016.jpg"
+            }
+          ]
         }
       ]
     },
@@ -923,7 +1065,27 @@
       "name": "Задачи",
       "subthemes": [
         {
-          "name": "Раздел в разработке, скоро здесь будут задачи"
+          "name": "Раздел в разработке, скоро здесь будут задачи",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/8001.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/8001.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/8002.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/8002.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/8003.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/8003.jpg"
+            }
+          ]
         }
       ]
     }
