@@ -1,9 +1,4 @@
-import {
-  checkAnswer,
-  showDecision,
-  loadQuizData,
-  calculateScore,
-} from "./common.js";
+import { checkAnswer, showDecision, loadQuizData } from "./common.js";
 
 const variantsContainer = document.getElementById("variants-container");
 const variantButtonsContainer = document.getElementById(
@@ -34,6 +29,11 @@ async function generateVariant(variantNumber) {
   const quizData = await loadQuizData();
   currentVariantTasks = [];
   variantsContainer.innerHTML = "";
+
+  const mclovinElement = document.querySelector(".mclovin");
+  if (mclovinElement) {
+    mclovinElement.style.display = "none";
+  }
 
   const variantData = quizData.variants.find((v) => v.number == variantNumber);
 
@@ -115,3 +115,36 @@ document.addEventListener("DOMContentLoaded", () => {
 submitVariantButton.addEventListener("click", () => {
   calculateScore(currentVariantTasks, variantsContainer, totalScoreDisplay);
 });
+
+/*
+ * Подсчитывает и отображает результаты теста
+ */
+function calculateScore(tasks, container, scoreDisplay) {
+  let correctAnswersCount = 0;
+  const taskItems = container.querySelectorAll(".task-item");
+
+  taskItems.forEach((listItem, index) => {
+    const input = listItem.querySelector(".answer-input");
+    const task = tasks[index];
+
+    if (task && input) {
+      checkAnswer(input, task.correctAnswer, listItem);
+      if (input.value.trim().toLowerCase() === task.correctAnswer) {
+        correctAnswersCount++;
+      }
+    }
+  });
+
+  scoreDisplay.textContent = `Вы ответили правильно на ${correctAnswersCount} из ${tasks.length} заданий.`;
+  scoreDisplay.style.display = "block";
+
+  // Проверяем, все ли ответы правильные
+  const mclovinElement = document.querySelector(".mclovin");
+  if (mclovinElement) {
+    if (correctAnswersCount === tasks.length) {
+      mclovinElement.style.display = "flex";
+    } else {
+      mclovinElement.style.display = "none";
+    }
+  }
+}
