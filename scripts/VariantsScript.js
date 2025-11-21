@@ -30,9 +30,9 @@ async function generateVariant(variantNumber) {
   currentVariantTasks = [];
   variantsContainer.innerHTML = "";
 
-  const mclovinElement = document.querySelector(".mclovin");
-  if (mclovinElement) {
-    mclovinElement.style.display = "none";
+  const surpriseElement = document.querySelector(".surprise");
+  if (surpriseElement) {
+    surpriseElement.style.display = "none";
   }
 
   const variantData = quizData.variants.find((v) => v.number == variantNumber);
@@ -139,12 +139,12 @@ function calculateScore(tasks, container, scoreDisplay) {
   scoreDisplay.style.display = "block";
 
   // Проверяем, все ли ответы правильные
-  const mclovinElement = document.querySelector(".mclovin");
-  if (mclovinElement) {
+  const surpriseElement = document.querySelector(".surprise");
+  if (surpriseElement) {
     if (correctAnswersCount === tasks.length) {
-      mclovinElement.style.display = "flex";
+      surpriseElement.style.display = "flex";
     } else {
-      mclovinElement.style.display = "none";
+      surpriseElement.style.display = "none";
     }
   }
 }

@@ -324,7 +324,7 @@
             },
             {
               "number": 4,
-              "correctAnswer": "9;19;11",
+              "correctAnswer": "9;10;11",
               "image": "../../../data/7gr/1sem/Tasks/504.jpg",
               "decision": "../../../data/7gr/1sem/Solves/504.jpg"
             },
