@@ -1,3 +1,5 @@
+// Импорт нужных функций
+
 import { checkAnswer, showDecision, loadQuizData } from "./common.js";
 
 const variantsContainer = document.getElementById("variants-container");
@@ -9,7 +11,10 @@ const totalScoreDisplay = document.getElementById("total-score");
 
 let currentVariantTasks = [];
 
-// Функция для создания кнопок вариантов
+/*
+ * Функция для создания кнопок вариантов
+ */
+
 async function createVariantButtons() {
   const quizData = await loadQuizData();
   variantButtonsContainer.innerHTML = "";
@@ -24,7 +29,9 @@ async function createVariantButtons() {
   });
 }
 
-// Функция для генерации варианта
+/*
+ * Функция для генерации варианта
+ */
 async function generateVariant(variantNumber) {
   const quizData = await loadQuizData();
   currentVariantTasks = [];
@@ -138,7 +145,10 @@ function calculateScore(tasks, container, scoreDisplay) {
   scoreDisplay.textContent = `Вы ответили правильно на ${correctAnswersCount} из ${tasks.length} заданий.`;
   scoreDisplay.style.display = "block";
 
-  // Проверяем, все ли ответы правильные
+  /*
+   * Проверяем, все ли ответы правильные
+   */
+
   const surpriseElement = document.querySelector(".surprise");
   if (surpriseElement) {
     if (correctAnswersCount === tasks.length) {

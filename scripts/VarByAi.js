@@ -1,3 +1,5 @@
+// Импорт нужных функций
+
 import { loadQuizData } from "./common.js";
 
 const API_URL_71 =
@@ -5,7 +7,10 @@ const API_URL_71 =
 const API_URL_72 =
   "https://cloud.flowiseai.com/api/v1/prediction/9ba6935b-69bb-4c44-8d60-e7c033e9a334";
 
-// Загружаем и показываем дефолтный вариант при загрузке страницы
+/*
+ * Загружаем и показываем дефолтный вариант при загрузке страницы
+ */
+
 async function loadDefaultVariant() {
   const quizData = await loadQuizData();
 
@@ -26,7 +31,9 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 
-// Основная функция генерации
+/*
+ * Основная функция генерации
+ */
 async function generateVariant(apiUrl) {
   try {
     const response = await fetch(apiUrl, {
@@ -52,7 +59,10 @@ async function generateVariant(apiUrl) {
   }
 }
 
-// Функция отображения + парсинга задач
+/*
+ * Функция отображения + парсинга задач
+ */
+
 function displayTasks(aiText) {
   console.log("Полный ответ от ИИ:", aiText);
   // Очищаем задачи
@@ -68,7 +78,7 @@ function displayTasks(aiText) {
   // Разбиваем по "ЗАДАЧА X:"
   const tasks = cleanText.split(/ЗАДАЧА\s*\d+:/).filter((task) => task.trim());
 
-  // Вставляем задачи
+  // Вставляем задачи на страницу
   tasks.forEach((taskText, index) => {
     const taskNumber = index + 1;
     const taskElement = document.getElementById(`task${taskNumber}`);

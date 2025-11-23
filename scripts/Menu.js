@@ -1,3 +1,7 @@
+/*
+ Показывает меню на странице
+*/
+
 async function renderMenu() {
   const dropdownToggle = document.querySelector(".dropdown");
 
