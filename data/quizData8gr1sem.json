@@ -643,7 +643,7 @@
             },
             {
               "number": 2,
-              "correctAnswer": "25b+2a-4",
+              "correctAnswer": "1/(sqrt(a)+sqrt(2))",
               "image": "../../../data/8gr/1sem/Tasks/4052.jpg",
               "decision": "../../../data/8gr/1sem/Solves/4052.jpg"
             }
