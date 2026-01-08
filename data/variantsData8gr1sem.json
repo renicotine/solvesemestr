@@ -1,0 +1,332 @@
+{
+  "variants": [
+    {
+      "number": 1,
+      "tasks": [
+        {
+          "number": 1,
+          "condition": "Упростите выражение:",
+          "correctAnswer": "1/(5b+1)",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/01.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/01.jpg"
+        },
+        {
+          "number": 2,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/02.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/02.jpg"
+        },
+        {
+          "number": 3,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/03.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/03.jpg"
+        },
+        {
+          "number": 4,
+          "condition": "Решите уравнение в натуральных числах:",
+          "correctAnswer": "(1,2)",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/04.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/04.jpg"
+        },
+        {
+          "number": 5,
+          "condition": "Постройте график функции y(x) и найдите a, при которых уравнение y=a не имеет решения",
+          "correctAnswer": "a=9;a=7",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/05.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/05.jpg"
+        },
+        {
+          "number": 6,
+          "condition": "Вычислите:",
+          "correctAnswer": "4",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/06.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/06.jpg"
+        },
+        {
+          "number": 7,
+          "condition": "Решите уравнение:",
+          "correctAnswer": "-1;0;1/2",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/07.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/07.jpg"
+        },
+        {
+          "number": 8,
+          "correctAnswer": "11;-36;119",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/08.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/08.jpg"
+        },
+        {
+          "number": 9,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/09.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/09.jpg"
+        },
+        {
+          "number": 10,
+          "correctAnswer": "Верно",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/10.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/10.jpg"
+        },
+        {
+          "number": 11,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/11.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/11.jpg"
+        },
+        {
+          "number": 12,
+          "correctAnswer": "2",
+          "image": "../../../data/8gr/1sem/Variants/var1/Uslovia/12.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var1/Scan/12.jpg"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "tasks": [
+        {
+          "number": 1,
+          "condition": "Упростите выражение:",
+          "correctAnswer": "1",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/01.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/01.jpg"
+        },
+        {
+          "number": 2,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/02.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/02.jpg"
+        },
+        {
+          "number": 3,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/03.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/03.jpg"
+        },
+        {
+          "number": 4,
+          "condition": "Решите уравнение в натуральных числах:",
+          "correctAnswer": "(5,2)",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/04.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/04.jpg"
+        },
+        {
+          "number": 5,
+          "condition": "Постройте график функции y(x) и найдите a, при которых уравнение y=a не имеет решения",
+          "correctAnswer": "a<0",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/05.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/05.jpg"
+        },
+        {
+          "number": 6,
+          "condition": "Упростите:",
+          "correctAnswer": "sqrt(-x)",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/06.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/06.jpg"
+        },
+        {
+          "number": 7,
+          "condition": "Решите уравнение:",
+          "correctAnswer": "(3-sqrt21)/2;(3+sqrt21)/2",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/07.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/07.jpg"
+        },
+        {
+          "number": 8,
+          "correctAnswer": "-3;23",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/08.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/08.jpg"
+        },
+        {
+          "number": 9,
+          "correctAnswer": "20;30",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/09.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/09.jpg"
+        },
+        {
+          "number": 10,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/10.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/10.jpg"
+        },
+        {
+          "number": 11,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/11.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/11.jpg"
+        },
+        {
+          "number": 12,
+          "correctAnswer": "11",
+          "image": "../../../data/8gr/1sem/Variants/var2/Uslovia/12.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var2/Scan/12.jpg"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "tasks": [
+        {
+          "number": 1,
+          "condition": "Упростите выражение:",
+          "correctAnswer": "(2-10x)/(3x-1))",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/01.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/01.jpg"
+        },
+        {
+          "number": 2,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/02.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/02.jpg"
+        },
+        {
+          "number": 3,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/03.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/03.jpg"
+        },
+        {
+          "number": 4,
+          "condition": "Решите уравнение в целых числах:",
+          "correctAnswer": "(-1;-1);(3;-1)",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/04.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/04.jpg"
+        },
+        {
+          "number": 5,
+          "condition": "Постройте график функции y(x) и найдите при каких значениях a, прямая y=a имеет с графиком две общие точки",
+          "correctAnswer": "-3<y<-2",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/05.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/05.jpg"
+        },
+        {
+          "number": 6,
+          "condition": "Упростите:",
+          "correctAnswer": "0",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/06.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/06.jpg"
+        },
+        {
+          "number": 7,
+          "condition": "Решите уравнение:",
+          "correctAnswer": "1;(-3-sqrt50)/2;(-3+sqrt5)/2",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/07.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/07.jpg"
+        },
+        {
+          "number": 8,
+          "correctAnswer": "11",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/08.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/08.jpg"
+        },
+        {
+          "number": 9,
+          "correctAnswer": "может",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/09.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/09.jpg"
+        },
+        {
+          "number": 10,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/10.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/10.jpg"
+        },
+        {
+          "number": 11,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/11.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/11.jpg"
+        },
+        {
+          "number": 12,
+          "correctAnswer": "3",
+          "image": "../../../data/8gr/1sem/Variants/var3/Uslovia/12.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var3/Scan/12.jpg"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "tasks": [
+        {
+          "number": 1,
+          "condition": "Упростите выражение:",
+          "correctAnswer": "0,4",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/01.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/01.jpg"
+        },
+        {
+          "number": 2,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/02.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/02.jpg"
+        },
+        {
+          "number": 3,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/03.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/03.jpg"
+        },
+        {
+          "number": 4,
+          "condition": "Решите уравнение в целых числах:",
+          "correctAnswer": "(-2;0);(2;4);(4;-6);(8;-2)",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/04.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/04.jpg"
+        },
+        {
+          "number": 5,
+          "condition": "Постройте график функции y(x) и определите, при каких значениях k построенный график не будет иметь общих точек с прямой y=kx",
+          "correctAnswer": "2/3;1;2",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/05.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/05.jpg"
+        },
+        {
+          "number": 6,
+          "condition": "Упростите:",
+          "correctAnswer": "2",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/06.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/06.jpg"
+        },
+        {
+          "number": 7,
+          "condition": "Решите уравнение:",
+          "correctAnswer": "-2;-1;2-sqrt2;2+sqrt2",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/07.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/07.jpg"
+        },
+        {
+          "number": 8,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/08.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/08.jpg"
+        },
+        {
+          "number": 9,
+          "correctAnswer": "2021",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/09.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/09.jpg"
+        },
+        {
+          "number": 10,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/10.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/10.jpg"
+        },
+        {
+          "number": 11,
+          "correctAnswer": "См. ответ в решении задачи",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/11.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/11.jpg"
+        },
+        {
+          "number": 12,
+          "correctAnswer": "углы равны",
+          "image": "../../../data/8gr/1sem/Variants/var4/Uslovia/12.jpg",
+          "decision": "../../../data/8gr/1sem/Variants/var4/Scan/12.jpg"
+        }
+      ]
+    }
+  ]
+}

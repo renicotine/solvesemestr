@@ -198,392 +198,6 @@
       ]
     },
     {
-      "name": "Целые числа. Делимость.",
-      "subthemes": [
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "{0;4;6;8}",
-              "image": "../../../data/8gr/1sem/Tasks/2011.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2011.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "{2;8}",
-              "image": "../../../data/8gr/1sem/Tasks/2012.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2012.jpg"
-            },
-            {
-              "number": 3,
-              "correctAnswer": "0",
-              "image": "../../../data/8gr/1sem/Tasks/2013.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2013.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "{0;2;4;6;8}",
-              "image": "../../../data/8gr/1sem/Tasks/2021.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2021.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "{1;4;7}",
-              "image": "../../../data/8gr/1sem/Tasks/2022.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2022.jpg"
-            },
-            {
-              "number": 3,
-              "correctAnswer": "0",
-              "image": "../../../data/8gr/1sem/Tasks/2023.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2023.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "9",
-              "image": "../../../data/8gr/1sem/Tasks/2031.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2031.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "12",
-              "image": "../../../data/8gr/1sem/Tasks/2032.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2032.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "n=7;n=-3",
-              "image": "../../../data/8gr/1sem/Tasks/2041.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2041.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Докажите, что число А является составным для любого натурального n",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/2051.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2051.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/2052.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2052.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "29",
-              "image": "../../../data/8gr/1sem/Tasks/2061.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2061.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "13",
-              "image": "../../../data/8gr/1sem/Tasks/2062.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2062.jpg"
-            },
-            {
-              "number": 3,
-              "correctAnswer": "1",
-              "image": "../../../data/8gr/1sem/Tasks/2063.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2063.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "576",
-              "image": "../../../data/8gr/1sem/Tasks/2071.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2071.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "1680",
-              "image": "../../../data/8gr/1sem/Tasks/2072.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2072.jpg"
-            },
-            {
-              "number": 3,
-              "correctAnswer": "12",
-              "image": "../../../data/8gr/1sem/Tasks/2073.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2073.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Решите в целых числах уравнение",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "(1,2);(-1,2);(5,2);(-5,2)",
-              "image": "../../../data/8gr/1sem/Tasks/2081.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2081.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "(16,3);(-18,1);(0,19);(-2,-15)",
-              "image": "../../../data/8gr/1sem/Tasks/2082.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2082.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "(4,0);(0,-2);(3,1);(1,0)",
-              "image": "../../../data/8gr/1sem/Tasks/2091.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2091.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "3m",
-              "image": "../../../data/8gr/1sem/Tasks/2092.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2092.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "2;5;8",
-              "image": "../../../data/8gr/1sem/Tasks/2101.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2101.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "71010;91910;71415",
-              "image": "../../../data/8gr/1sem/Tasks/2111.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2111.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/2121.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2121.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "11",
-              "image": "../../../data/8gr/1sem/Tasks/2131.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2131.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "62",
-              "image": "../../../data/8gr/1sem/Tasks/2141.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2141.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/2151.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2151.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "(5,-2);(15,-1)",
-              "image": "../../../data/8gr/1sem/Tasks/2161.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2161.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "(4,12);(6,6);(12,4)",
-              "image": "../../../data/8gr/1sem/Tasks/2171.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2171.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/2181.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/2181.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Множество чисел; объединение, пересечение, разность множеств. Круги Эйлера.",
-      "subthemes": [
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "[-1,4];1",
-              "image": "../../../data/8gr/1sem/Tasks/3011.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3011.jpg"
-            },
-            {
-              "number": 2,
-              "correctAnswer": "[3;7);2/3",
-              "image": "../../../data/8gr/1sem/Tasks/3021.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3021.jpg"
-            },
-            {
-              "number": 3,
-              "correctAnswer": "(-1,15);6/5",
-              "image": "../../../data/8gr/1sem/Tasks/3031.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3031.jpg"
-            },
-            {
-              "number": 4,
-              "correctAnswer": "[-5,16);8/3",
-              "image": "../../../data/8gr/1sem/Tasks/3041.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3041.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/3051.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3051.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/3061.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3061.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/3071.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3071.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/3081.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3081.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "528",
-              "image": "../../../data/8gr/1sem/Tasks/3091.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3091.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "205",
-              "image": "../../../data/8gr/1sem/Tasks/3101.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3101.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Выполните задание",
-          "tasks": [
-            {
-              "number": 1,
-              "correctAnswer": "2;18",
-              "image": "../../../data/8gr/1sem/Tasks/3111.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/3111.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Преобразование числовых выражений, содержащих квадратные корни",
       "subthemes": [
         {
@@ -1144,6 +758,392 @@
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/8003.jpg",
               "decision": "../../../data/8gr/1sem/Solves/8003.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Целые числа. Делимость.",
+      "subthemes": [
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "{0;4;6;8}",
+              "image": "../../../data/8gr/1sem/Tasks/2011.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2011.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "{2;8}",
+              "image": "../../../data/8gr/1sem/Tasks/2012.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2012.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "0",
+              "image": "../../../data/8gr/1sem/Tasks/2013.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2013.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "{0;2;4;6;8}",
+              "image": "../../../data/8gr/1sem/Tasks/2021.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2021.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "{1;4;7}",
+              "image": "../../../data/8gr/1sem/Tasks/2022.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2022.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "0",
+              "image": "../../../data/8gr/1sem/Tasks/2023.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2023.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "9",
+              "image": "../../../data/8gr/1sem/Tasks/2031.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2031.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "12",
+              "image": "../../../data/8gr/1sem/Tasks/2032.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2032.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "n=7;n=-3",
+              "image": "../../../data/8gr/1sem/Tasks/2041.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2041.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Докажите, что число А является составным для любого натурального n",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/2051.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2051.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/2052.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2052.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "29",
+              "image": "../../../data/8gr/1sem/Tasks/2061.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2061.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "13",
+              "image": "../../../data/8gr/1sem/Tasks/2062.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2062.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "1",
+              "image": "../../../data/8gr/1sem/Tasks/2063.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2063.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "576",
+              "image": "../../../data/8gr/1sem/Tasks/2071.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2071.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "1680",
+              "image": "../../../data/8gr/1sem/Tasks/2072.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2072.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "12",
+              "image": "../../../data/8gr/1sem/Tasks/2073.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2073.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Решите в целых числах уравнение",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "(1,2);(-1,2);(5,2);(-5,2)",
+              "image": "../../../data/8gr/1sem/Tasks/2081.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2081.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "(16,3);(-18,1);(0,19);(-2,-15)",
+              "image": "../../../data/8gr/1sem/Tasks/2082.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2082.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "(4,0);(0,-2);(3,1);(1,0)",
+              "image": "../../../data/8gr/1sem/Tasks/2091.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2091.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "3m",
+              "image": "../../../data/8gr/1sem/Tasks/2092.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2092.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "2;5;8",
+              "image": "../../../data/8gr/1sem/Tasks/2101.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2101.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "71010;91910;71415",
+              "image": "../../../data/8gr/1sem/Tasks/2111.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2111.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/2121.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2121.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "11",
+              "image": "../../../data/8gr/1sem/Tasks/2131.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2131.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "62",
+              "image": "../../../data/8gr/1sem/Tasks/2141.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2141.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/2151.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2151.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "(5,-2);(15,-1)",
+              "image": "../../../data/8gr/1sem/Tasks/2161.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2161.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "(4,12);(6,6);(12,4)",
+              "image": "../../../data/8gr/1sem/Tasks/2171.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2171.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/2181.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/2181.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Множество чисел; объединение, пересечение, разность множеств. Круги Эйлера.",
+      "subthemes": [
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "[-1,4];1",
+              "image": "../../../data/8gr/1sem/Tasks/3011.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3011.jpg"
+            },
+            {
+              "number": 2,
+              "correctAnswer": "[3;7);2/3",
+              "image": "../../../data/8gr/1sem/Tasks/3021.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3021.jpg"
+            },
+            {
+              "number": 3,
+              "correctAnswer": "(-1,15);6/5",
+              "image": "../../../data/8gr/1sem/Tasks/3031.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3031.jpg"
+            },
+            {
+              "number": 4,
+              "correctAnswer": "[-5,16);8/3",
+              "image": "../../../data/8gr/1sem/Tasks/3041.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3041.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/3051.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3051.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/3061.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3061.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/3071.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3071.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "См. ответ в решении задачи",
+              "image": "../../../data/8gr/1sem/Tasks/3081.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3081.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "528",
+              "image": "../../../data/8gr/1sem/Tasks/3091.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3091.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "205",
+              "image": "../../../data/8gr/1sem/Tasks/3101.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3101.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Выполните задание",
+          "tasks": [
+            {
+              "number": 1,
+              "correctAnswer": "2;18",
+              "image": "../../../data/8gr/1sem/Tasks/3111.jpg",
+              "decision": "../../../data/8gr/1sem/Solves/3111.jpg"
             }
           ]
         }

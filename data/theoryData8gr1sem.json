@@ -39,32 +39,7 @@
         }
       ]
     },
-    {
-      "name": "Целые числа. Делимость",
-      "subthemes": [
-        {
-          "content": [
-            {
-              "type": "image",
-              "src": "../../../data/8gr/1sem/Theory/t4.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Множество чисел; объединение, пересечение, разность множеств. Круги Эйлера.",
-      "subthemes": [
-        {
-          "content": [
-            {
-              "type": "image",
-              "src": "../../../data/8gr/1sem/Theory/t5.jpg"
-            }
-          ]
-        }
-      ]
-    },
+    
     {
       "name": "Преобразование числовых выражений, содержащих квадратные корни",
       "subthemes": [
@@ -112,6 +87,32 @@
             {
               "type": "image",
               "src": "../../../data/8gr/1sem/Theory/t9.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Целые числа. Делимость",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/8gr/1sem/Theory/t4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Множество чисел; объединение, пересечение, разность множеств. Круги Эйлера.",
+      "subthemes": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "src": "../../../data/8gr/1sem/Theory/t5.jpg"
             }
           ]
         }
