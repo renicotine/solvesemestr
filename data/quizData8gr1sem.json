@@ -425,174 +425,156 @@
             },
             {
               "number": 4,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/5041.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/5041.jpg"
-            },
-            {
-              "number": 5,
               "correctAnswer": "6;12",
               "image": "../../../data/8gr/1sem/Tasks/5051.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5051.jpg"
             },
             {
-              "number": 6,
+              "number": 5,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5061.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5061.jpg"
             },
             {
-              "number": 7,
+              "number": 6,
               "correctAnswer": "8",
               "image": "../../../data/8gr/1sem/Tasks/5071.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5071.jpg"
             },
             {
-              "number": 8,
+              "number": 7,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5081.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5081.jpg"
             },
             {
-              "number": 9,
+              "number": 8,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5091.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5091.jpg"
             },
             {
-              "number": 10,
+              "number": 9,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5101.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5101.jpg"
             },
             {
-              "number": 11,
+              "number": 10,
               "correctAnswer": "2",
               "image": "../../../data/8gr/1sem/Tasks/5111.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5111.jpg"
             },
             {
-              "number": 12,
+              "number": 11,
               "correctAnswer": "60;60;120;120",
               "image": "../../../data/8gr/1sem/Tasks/5121.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5121.jpg"
             },
             {
-              "number": 13,
+              "number": 12,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5131.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5131.jpg"
             },
             {
-              "number": 14,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/5141.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/5141.jpg"
-            },
-            {
-              "number": 15,
+              "number": 13,
               "correctAnswer": "4;32",
               "image": "../../../data/8gr/1sem/Tasks/5151.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5151.jpg"
             },
             {
-              "number": 16,
+              "number": 14,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5161.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5161.jpg"
             },
             {
-              "number": 17,
+              "number": 15,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5171.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5171.jpg"
             },
             {
-              "number": 18,
+              "number": 16,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5181.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5181.jpg"
             },
             {
-              "number": 19,
+              "number": 17,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5191.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5191.jpg"
             },
             {
-              "number": 20,
+              "number": 18,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5201.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5201.jpg"
             },
             {
-              "number": 21,
+              "number": 19,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5211.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5211 .jpg"
             },
             {
-              "number": 22,
+              "number": 20,
               "correctAnswer": "40;140;40;140",
               "image": "../../../data/8gr/1sem/Tasks/5009.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5009.jpg"
             },
             {
-              "number": 23,
+              "number": 21,
               "correctAnswer": "2",
               "image": "../../../data/8gr/1sem/Tasks/5010.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5010.jpg"
             },
             {
-              "number": 24,
-              "correctAnswer": "См. ответ в решении задачи",
-              "image": "../../../data/8gr/1sem/Tasks/5011.jpg",
-              "decision": "../../../data/8gr/1sem/Solves/5011.jpg"
-            },
-            {
-              "number": 25,
+              "number": 22,
               "correctAnswer": "2;4",
               "image": "../../../data/8gr/1sem/Tasks/5012.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5012.jpg"
             },
             {
-              "number": 26,
+              "number": 23,
               "correctAnswer": "9",
               "image": "../../../data/8gr/1sem/Tasks/5013.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5013.jpg"
             },
             {
-              "number": 27,
+              "number": 24,
               "correctAnswer": "4:1",
               "image": "../../../data/8gr/1sem/Tasks/5014.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5014.jpg"
             },
             {
-              "number": 28,
+              "number": 25,
               "correctAnswer": "4:1",
               "image": "../../../data/8gr/1sem/Tasks/5015.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5015.jpg"
             },
             {
-              "number": 29,
+              "number": 26,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5016.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5016.jpg"
             },
             {
-              "number": 30,
+              "number": 27,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5017.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5017.jpg"
             },
             {
-              "number": 31,
+              "number": 28,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5018.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5018.jpg"
             },
             {
-              "number": 32,
+              "number": 29,
               "correctAnswer": "См. ответ в решении задачи",
               "image": "../../../data/8gr/1sem/Tasks/5019.jpg",
               "decision": "../../../data/8gr/1sem/Solves/5019.jpg"
