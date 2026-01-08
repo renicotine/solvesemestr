@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
     button72.addEventListener("click", () => generateVariant(API_URL_72));
   }
   if (button81) {
-    button72.addEventListener("click", () => generateVariant(API_URL_81));
+    button81.addEventListener("click", () => generateVariant(API_URL_81));
   }
 });
 
