@@ -7,6 +7,9 @@ const API_URL_71 =
 const API_URL_72 =
   "https://cloud.flowiseai.com/api/v1/prediction/9ba6935b-69bb-4c44-8d60-e7c033e9a334";
 
+const API_URL_81 =
+  "https://cloud.flowiseai.com/api/v1/prediction/fc52c973-05ec-46b4-ae69-84cfb68ceb01";
+
 /*
  * Загружаем и показываем дефолтный вариант при загрузке страницы
  */
@@ -22,12 +25,16 @@ async function loadDefaultVariant() {
 document.addEventListener("DOMContentLoaded", function () {
   const button71 = document.querySelector(".generate-button-71");
   const button72 = document.querySelector(".generate-button-72");
+  const button81 = document.querySelector(".generate-button-81");
 
   if (button71) {
     button71.addEventListener("click", () => generateVariant(API_URL_71));
   }
   if (button72) {
     button72.addEventListener("click", () => generateVariant(API_URL_72));
+  }
+  if (button81) {
+    button81.addEventListener("click", () => generateVariant(API_URL_81));
   }
 });
 
