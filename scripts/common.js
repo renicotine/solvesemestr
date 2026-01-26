@@ -25,7 +25,7 @@ export function checkAnswer(inputElement, correctAnswer, listItem) {
     resultMessage.classList.remove("incorrect");
     resultMessage.classList.add("correct");
   } else {
-    resultMessage.textContent = `Неверно. Правильный ответ: ${correctAnswer}`;
+    resultMessage.textContent = ` Правильный ответ: ${correctAnswer}`;
     resultMessage.classList.remove("correct");
     resultMessage.classList.add("incorrect");
   }
